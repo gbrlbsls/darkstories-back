@@ -1,0 +1,907 @@
+[
+  {
+    "titulo": "Um copo d'agua",
+    "caso": "Um homem entra num bar e pede um copo d'agua. O barman puxa uma arma de debaixo do balc\u00e3o e aponta para a cabe\u00e7a do homem, que responde \"obrigado\" e sai do bar.",
+    "resolucao": "O homem havia entrado no bar para se livrar de solu\u00e7os, procurando um copo de \u00e1gua. O barman, percebendo a situa\u00e7\u00e3o, saca a arma e aponta-a para o homem, a fim de cur\u00e1-lo com um susto."
+  },
+  {
+    "titulo": "Uma morte incomum",
+    "caso": "Paulo trabalha num banco. Nesse dia, um grande apag\u00e3o ocorre em toda a cidade. Poucos minutos depois, Paulo morre eletrocutado.",
+    "resolucao": "Paulo \u00e9 t\u00e9cnico de inform\u00e1tica e decidiu trabalhar no parque naquele dia, sentado em um banco. De repente, inicia-se uma tempestade e, em seguida, ocorre o apag\u00e3o. Quando Paulo est\u00e1 pensando em ir para casa, \u00e9 atingido por um raio."
+  },
+  {
+    "titulo": "O \u00faltimo trem",
+    "caso": "Sebasti\u00e3o estava sentado lendo o jornal quando ouviu um barulho. No momento que percebeu o que havia ocorrido, lamentou por n\u00e3o ter pegado o trem a tempo. Pouco tempo depois, Sebasti\u00e3o cometeu suic\u00eddio.",
+    "resolucao": "Sebasti\u00e3o estava falido. Ele era um colecionador de trens e, para resolver seus problemas econ\u00f4micos, pretendia vender o seu mais valioso modelo de trem. Ele estava limpando o trem sobre a mesa, mas n\u00e3o deixou-o posicionado de forma segura. Quando se sentou para descansar e come\u00e7ou a ler seu jornal, ouviu o trem caindo da mesa. Sebasti\u00e3o n\u00e3o teve tempo de peg\u00e1-lo antes de cair no ch\u00e3o."
+  },
+  {
+    "titulo": "Uma porta aberta",
+    "caso": "Quando Marcelo acordou naquela manh\u00e3, ele estava surpreso que a porta estava aberta. Justo quando Marcelo estava cruzando a porta ele foi decapitado.",
+    "resolucao": "Marcelo era um can\u00e1rio que vivia em sua gaiola. Geraldo, um gato, estava esperando sua oportunidade para pegar Marcelo e com\u00ea-lo. Quando seu dono deixou a porta da gaiola aberta por engano, Marcelo voou para fora e Geraldo n\u00e3o hesitou em arrancar a pequena cabe\u00e7a de Marcelo com uma mordida."
+  },
+  {
+    "titulo": "O acidente",
+    "caso": "Um homem dirigindo um carro provoca um acidente ao colidir com uma bicicleta, ao virar de inesperado em um cruzamento. Quando os policiais chegam, outro homem \u00e9 preso. Aquele que estava dirigindo \u00e9 levado para casa.",
+    "resolucao": "O condutor do carro estava numa aula pr\u00e1tica da autoescola e seu instrutor lhe disse para fazer uma curva incorreta em um cruzamento, batendo em uma bicicleta. Os policiais julgaram o instrutor respons\u00e1vel pelo acidente, de modo que o prenderam e levaram o aluno para casa."
+  },
+  {
+    "titulo": "Morte no museu",
+    "caso": "Um homem vestindo uma balaclava sai correndo de um museu com um quadro debaixo do bra\u00e7o. Um policial o v\u00ea, matando-o com um tiro e cometendo suic\u00eddio logo depois. Poucos dias depois, o homem assassinado \u00e9 nomeado filho favorito da cidade.",
+    "resolucao": "Durante uma onda de frio um inc\u00eandio se deu em um museu e seu diretor tentou salvar a pintura mais valiosa da cole\u00e7\u00e3o. O policial n\u00e3o havia percebido o inc\u00eandio e pensou que o homem era um ladr\u00e3o. O policial manda o homem parar, mas, como o diretor era surdo, n\u00e3o parou e o policial atirou, ferindo-o fatalmente. Quando o policial percebeu o que tinha feito, cometeu suic\u00eddio."
+  },
+  {
+    "titulo": "Pulando do 6\u00ba andar",
+    "caso": "Uma mulher salta do parapeito da janela do sexto andar. No entanto, n\u00e3o morre nem sofre quaisquer les\u00f5es.",
+    "resolucao": "A mulher estava prestes a cometer suic\u00eddio, mas pensou melhor e, em vez de saltar para fora, decidiu pular de volta para seu apartamento."
+  },
+  {
+    "titulo": "O apag\u00e3o",
+    "caso": "Uma mulher, no trabalho, est\u00e1 descendo as escadas, quando de repente h\u00e1 um apag\u00e3o. Nesse exato momento ela percebe que seu marido est\u00e1 morrendo.",
+    "resolucao": "A mulher trabalhava como eletricista em um hospital e sabia que os geradores de emerg\u00eancia estavam quebrados. Seu marido havia sofrido um acidente de carro e estava naquele hospital, conectado a uma m\u00e1quina que o mantinha vivo. Quando o apag\u00e3o ocorreu, ela sabia que seu marido n\u00e3o podia estar respirando sozinho e, portanto, que ele estava morrendo."
+  },
+  {
+    "titulo": "Agora n\u00e3o...!",
+    "caso": "Uma mulher est\u00e1 em casa, assistindo tristemente \u00e0 rua atrav\u00e9s de sua janela. Logo depois, ela salta pela janela. Naquele exato momento ela ouve o telefone tocando e lamenta o salto.",
+    "resolucao": "Depois de um desastre nuclear, a mulher pensou que ela era a \u00fanica pessoa viva e decidiu por fim a sua vida. Quando o telefone tocou ela percebeu que n\u00e3o estava sozinha, mas era tarde demais."
+  },
+  {
+    "titulo": "Testemunha de um sequestro",
+    "caso": "Um empres\u00e1rio testemunha um sequestro. No entanto, quando ele conta \u00e0 pol\u00edcia, eles n\u00e3o acreditam nele.",
+    "resolucao": "Depois de sair do dentista, a testemunha foi incapaz de falar adequadamente, j\u00e1 que ele estava com a boca dormente. Os policiais pensavam que o homem estava b\u00eabado e n\u00e3o acreditaram nas suas palavras."
+  },
+  {
+    "titulo": "Um roubo sem solu\u00e7\u00e3o",
+    "caso": "Um rapaz vai para a farm\u00e1cia e rapidamente sai dela com o dinheiro da caixa registradora. O dono da farm\u00e1cia chama a pol\u00edcia e, algum tempo depois, um policial recupera o dinheiro e leva o rapaz com ele. Naquela noite, as tr\u00eas pessoas v\u00e3o \u00e0 delegacia para relatar um roubo.",
+    "resolucao": "O rapaz era filho do dono da farm\u00e1cia. Seu carro tinha sido roubado e ele tinha um exame importante. Ele estivera na farm\u00e1cia para pedir \u00e0 m\u00e3e algum dinheiro para que ele pudesse pegar um t\u00e1xi. Al\u00e9m disso, a m\u00e3e chamou seu marido, que era um policial, e pediu-lhe para levar o filho para o exame. Ele o fez e, como o filho n\u00e3o precisava mais do dinheiro, devolveu-o ao pai, que o devolveu \u00e0 m\u00e3e. Finalmente, toda a fam\u00edlia relata o roubo do carro."
+  },
+  {
+    "titulo": "Outros dois caem no ch\u00e3o",
+    "caso": "Dois homens est\u00e3o batendo um ao outro quando ambos caem no ch\u00e3o.",
+    "resolucao": "A filha de um dos boxeadores tinha sido sequestrada e ela morreria se seu pai vencesse a pr\u00f3xima luta. No final da luta, o advers\u00e1rio do boxeador desmaiou e o outro boxeador, para n\u00e3o vencer, se jogou no ch\u00e3o."
+  },
+  {
+    "titulo": "Doutor, doutor",
+    "caso": "Um homem vai ao m\u00e9dico para saber os resultados de alguns exames. Os resultados n\u00e3o mostram problemas de sa\u00fade. No entanto, ele comete suic\u00eddio logo ap\u00f3s a visita.",
+    "resolucao": "O paciente sabia que sua esposa estava traindo-o, mas ele s\u00f3 sabia o nome do amante. Sua esposa jurou-lhe que este amante n\u00e3o existia. No entanto, quando o homem saiu do m\u00e9dico, ele viu o nome do amante no relat\u00f3rio. O homem percebeu que sua esposa estava traindo-o com seu m\u00e9dico e n\u00e3o conseguiu lidar com isso."
+  },
+  {
+    "titulo": "Perdido",
+    "caso": "Jo\u00e3o sai em uma viagem com sua b\u00fassola. Depois de uma longa caminhada, ele para para comer um sandu\u00edche. Depois disso ele n\u00e3o consegue encontrar o caminho de volta.",
+    "resolucao": "Jo\u00e3o era um cientista que trabalhava perto do P\u00f3lo Norte. Quando andava, caminhou para o norte, e parou para comer seu sandu\u00edche precisamente no P\u00f3lo Norte. Quando ele tentou voltar, sua b\u00fassola era in\u00fatil, j\u00e1 que todas as dire\u00e7\u00f5es apontavam para o sul."
+  },
+  {
+    "titulo": "Splish, Splash!",
+    "caso": "Andr\u00e9 estava navegando em seu barco quando seu rel\u00f3gio caiu ao mar. Ele \u00e9 um \u00f3timo mergulhador, no entanto, n\u00e3o consegue recuper\u00e1-lo.",
+    "resolucao": "Ele estava navegando no Mar Morto. Devido \u00e0 enorme concentra\u00e7\u00e3o de sal, ele n\u00e3o conseguiu afundar o suficiente para obter o rel\u00f3gio."
+  },
+  {
+    "titulo": "Uma morte prematura",
+    "caso": "Um homem que esperava morrer em poucos dias morre prematuramente.",
+    "resolucao": "O homem, doente, era um doador de \u00f3rg\u00e3o e sua morte iria salvar a vida de outro homem, um milion\u00e1rio, que era compat\u00edvel com ele. O filho do milion\u00e1rio queria herdar a fortuna de seu pai e envenenou-o para que seus \u00f3rg\u00e3os se tornassem incapazes de trabalharem no corpo de seu pai."
+  },
+  {
+    "titulo": "H\u00e1 luz",
+    "caso": "Roger v\u00ea uma luz e fica paralisado, morrendo segundos depois",
+    "resolucao": "Roger era um coelho que escapou da casa onde morava. Ele estava cruzando a estrada \u00e0 noite quando as luzes de um carro o cegaram. O condutor n\u00e3o o viu e o atropelou."
+  },
+  {
+    "titulo": "Um assassinato nada surpreendente",
+    "caso": "Um assassinato ocorre, mas ningu\u00e9m est\u00e1 surpreso.",
+    "resolucao": "Alguns amigos estavam jogando o jogo de tabuleiro Detetive (Clue). Todos esperavam o assassinato, para come\u00e7ar a resolver o mist\u00e9rio."
+  },
+  {
+    "titulo": "Impunidade",
+    "caso": "Numerosas testemunhas viram que Fernando foi ferido ap\u00f3s ser disparado tr\u00eas vezes naquele dia. No entanto, ningu\u00e9m prendeu o autor dos disparos.",
+    "resolucao": "Fernando trabalha como homem-bala em um circo. Naquele dia, na \u00faltima de suas 3 atua\u00e7\u00e3os, Fernando n\u00e3o p\u00f4de aterrizar bem na rede e foi ferido."
+  },
+  {
+    "titulo": "Um jantar letal",
+    "caso": "Uma mulher planeja matar seu marido no jantar. No entanto, enquanto prepara o jantar, ela comete suic\u00eddio.",
+    "resolucao": "Ela planejava mat\u00e1-lo envenenando a comida com alguns comprimidos que carregava em sua bolsa. Quando ela ia peg\u00e1-los, percebeu que eles n\u00e3o estavam l\u00e1. Seu filho havia engolido-os, pensando que eram doces. Ela n\u00e3o p\u00f4de suportar isso e decidiu tirar sua pr\u00f3pria vida."
+  },
+  {
+    "titulo": "Que vis\u00e3o incr\u00edvel!",
+    "caso": "Uma mulher olha pela janela e v\u00ea um homem com uma faca. N\u00e3o tem tempo para chamar a pol\u00edcia antes de ser assassinada.",
+    "resolucao": "Era noite e ela realmente viu o reflexo do assassino que estava dentro de sua casa, atr\u00e1s dela."
+  },
+  {
+    "titulo": "Fogo!",
+    "caso": "Quando Raimundo foi mergulhar, nunca pensou que iria morrer queimado.",
+    "resolucao": "Houve um inc\u00eandio em uma floresta perto da \u00e1rea de mergulho, em um lago. Um hidroavi\u00e3o estava pegando \u00e1gua do lago para extinguir o fogo. O mergulhador foi pego e depois jogado sobre o fogo."
+  },
+  {
+    "titulo": "Gar\u00e7om! Morte, por gentileza",
+    "caso": "S\u00f4nia bebe um refresco e Marcos bebe tr\u00eas. No entanto, apenas S\u00f4nia morre.",
+    "resolucao": "S\u00f4nia bebeu o refresco lentamente e os cubos de gelo, que estavam envenenados, tiveram tempo para derreter-se e liberar o veneno. Marcos estava muito sedento e tomou as tr\u00eas bebidas muito r\u00e1pido. Portanto, o gelo n\u00e3o derreteu."
+  },
+  {
+    "titulo": "Sorte minha",
+    "caso": "Pedro ganha o sorteio e comete suic\u00eddio.",
+    "resolucao": "Isolados pela neve, um grupo de pessoas rifa quem deve morrer para alimentar o resto. Pedro \"ganha\" o sorteio e cumpre sua promessa."
+  },
+  {
+    "titulo": "Eu estou aqui!",
+    "caso": "Luiz consegue um tiro, e gra\u00e7as a isso salva sua pr\u00f3pria vida.",
+    "resolucao": "Luiz era um soldado na frente de batalha. O dia de um grande ataque estava se aproximando. Quando nenhum outro soldado olhava para ele, p\u00f4s o bra\u00e7o para que o inimigo pudesse dar um tiro. Assim, ele acabou no hospital, mas salvou sua vida."
+  },
+  {
+    "titulo": "N\u00e3o parecia t\u00e3o grave",
+    "caso": "Antonio n\u00e3o podia imaginar que aquele resfriado lhe custaria a vida.",
+    "resolucao": "Houve um vazamento de g\u00e1s na casa de Antonio mas, como estava resfriado, n\u00e3o podia sentir o cheiro. Ele morreu quando acendeu um fogo para cozinhar o jantar."
+  },
+  {
+    "titulo": "Um salvamento milagroso",
+    "caso": "Eles tentam mat\u00e1-lo, mas salvam sua vida.",
+    "resolucao": "Em um grande jantar, na casa de um duque, v\u00e1rias pessoas tentaram mat\u00e1-lo. Primeiro, o mordomo envenenou sua bebida. Depois, o cozinheiro serviu-lhe algumas ostras em mau estado para intoxic\u00e1-lo gravemente. Quando o duque as comeu vomitou tudo, inclusive o veneno na bebida."
+  },
+  {
+    "titulo": "Chore, beb\u00ea, chore",
+    "caso": "M\u00e1rcia estava cercada por pessoas, quando foi assassinada. No entanto, ningu\u00e9m atendeu seus gritos.",
+    "resolucao": "M\u00e1rcia estava no cinema assistindo a um filme de terror. Uma cena muito assustadora come\u00e7ou. Enquanto todos gritavam, o assassino, que estava atr\u00e1s dela, a matou."
+  },
+  {
+    "titulo": "O casamento",
+    "caso": "Jos\u00e9 e Josefa v\u00e3o se casar. No dia antes do casamento, Josefa descobre que Jos\u00e9 est\u00e1 flertando com outra mulher. Josefa fica muito irritada e diz a Jos\u00e9 que ela nunca vai perdo\u00e1-lo. No entanto, no dia seguinte, eles se casam.",
+    "resolucao": "Jos\u00e9 e Josefa eram amigos e foram se casar, mas cada um com seu respectivo parceiro. Josefa n\u00e3o perdoaria Jos\u00e9 por trair sua namorada porque ela tamb\u00e9m era sua amiga."
+  },
+  {
+    "titulo": "Um acidente de trabalho",
+    "caso": "Se Fabio n\u00e3o tivesse sido t\u00e3o rigoroso em seu trabalho, ele estaria vivo agora.",
+    "resolucao": "Fabio trabalhou como guarda de seguran\u00e7a em um zool\u00f3gico. Um dia, ele repreendeu algumas crian\u00e7as que jogavam comida no covil dos le\u00f5es. Mais tarde naquele dia, ele escorregou e caiu no covil. Os le\u00f5es famintos o comeram."
+  },
+  {
+    "titulo": "Culpado",
+    "caso": "Ana denuncia sua irm\u00e3 Maria por matar F\u00e1bio, marido de Ana. O juiz determina que, sem d\u00favida, Maria \u00e9 culpada. No entanto, ele decide n\u00e3o encarcer\u00e1-la.",
+    "resolucao": "Ana e Maria s\u00e3o g\u00eameas siamesas. Um dia, enquanto Ana estava distra\u00edda, Maria envenenou a bebida de F\u00e1bio. Ela \u00e9 claramente culpada. No entanto, envi\u00e1-la para a pris\u00e3o significaria punir tamb\u00e9m uma pessoa inocente."
+  },
+  {
+    "titulo": "O suic\u00eddio gravado",
+    "caso": "Tereza \u00e9 encontrada morta em sua casa. Ela est\u00e1 sobre sua mesa, com uma arma em sua m\u00e3o. Um gravador tamb\u00e9m \u00e9 encontrado perto dela. Algum tempo depois, um policial entra na sala. Ele inspeciona a cena do crime e aperta o bot\u00e3o de reprodu\u00e7\u00e3o do gravador. Ele ouve uma voz dizendo \"Eu n\u00e3o quero mais viver, este \u00e9 o fim.\" E depois um tiro no final da grava\u00e7\u00e3o. Apesar do aparente suic\u00eddio, o policial sabe instantaneamente que Tereza foi assassinada.",
+    "resolucao": "O oficial n\u00e3o teve que rebobinar a fita cassete, desde que tinha sido rebobinada pelo assassino."
+  },
+  {
+    "titulo": "Doces sonhos",
+    "caso": "Lu\u00eds continua lendo uma hist\u00f3ria para seu filho, apesar de ocorrer um apag\u00e3o naquela noite.",
+    "resolucao": "Lu\u00eds era cego e ele costumava ler hist\u00f3rias para dormir de um livro em braille para seu filho. Naquela noite houve um apag\u00e3o, mas isso n\u00e3o lhe impediu de terminar a hist\u00f3ria."
+  },
+  {
+    "titulo": "Fratricida",
+    "caso": "Um homem mata seu irm\u00e3o na frente de muitas pessoas. No entanto, ningu\u00e9m o denuncia.",
+    "resolucao": "O homem trabalhava como carrasco e seu irm\u00e3o havia sido sentenciado \u00e0 morte."
+  },
+  {
+    "titulo": "Para uma venda",
+    "caso": "Um vendedor tenta muito conseguir uma venda e, como resultado, acaba morrendo.",
+    "resolucao": "O vendedor foi vender coletes \u00e0 prova de balas. Um dia para demonstrar a qualidade do seu produto a um cliente, o vendedor colocou um colete e insistiu para o cliente dispar\u00e1-lo. Infelizmente, o cliente falhou o tiro e a bala atingiu o vendedor na cabe\u00e7a."
+  },
+  {
+    "titulo": "Morte: atrasada",
+    "caso": "Vera nunca pensou que a decis\u00e3o de viajar de avi\u00e3o iria salvar sua vida.",
+    "resolucao": "H\u00e1 alguns dias Vera tinha sido operada. Antes de embarcar no avi\u00e3o, teve que passar pelo detector de metais, que n\u00e3o parou de apitar apesar dela ter removido tudo o que carregava. Ap\u00f3s um exame de raios-X, descobriu-se que os m\u00e9dicos tinham deixado um bisturi dentro de seu corpo. Se Vera n\u00e3o o tivesse descoberto a tempo, teria morrido com certeza."
+  },
+  {
+    "titulo": "Empregado do m\u00eas",
+    "caso": "Francisco morre de um ataque card\u00edaco no trabalho. Seus colegas de trabalho est\u00e3o l\u00e1 quando isso acontece. No entanto, eles n\u00e3o procuram ajuda at\u00e9 que Francisco morra.",
+    "resolucao": "Francisco era um ator de teatro e sofreu um ataque card\u00edaco no meio de uma atua\u00e7\u00e3o. Entretanto, ele interpretava algu\u00e9m que sofria um ataque card\u00edaco. Seus colegas e o p\u00fablico simplesmente pensaram que Francisco estava fazendo uma \u00f3tima atua\u00e7\u00e3o."
+  },
+  {
+    "titulo": "E o vento levou",
+    "caso": "Se aquela noite o vento n\u00e3o tivesse soprado t\u00e3o forte, Angela ainda estaria viva.",
+    "resolucao": "Dado que havia vento, Angela decidiu ir a um campo pr\u00f3ximo para empinar sua pipa. No anoitecer, ela n\u00e3o conseguia enxergar a torre de transmiss\u00e3o na vizinhan\u00e7a. Quando sua pipa ficou presa nos cabos e ela tentou desembara\u00e7\u00e1-la, foi eletrocutada."
+  },
+  {
+    "titulo": "O papagaio",
+    "caso": "Uma mulher entra em uma loja de animais para comprar um papagaio. O vendedor oferece-lhe um, dizendo-lhe que \u00e9 um \u00f3timo papagaio e que pode repetir tudo o que ouve. Alguns dias mais tarde, a mulher, sentindo-se enganada, volta para a loja para recuperar seu dinheiro. No entanto, ela volta para casa com o papagaio e n\u00e3o com seu dinheiro.",
+    "resolucao": "O papagaio era surdo, logo, n\u00e3o poderia repetir nada, pois nada ouvia. O vendedor n\u00e3o devolveu o dinheiro \u00e0 mulher pois ele n\u00e3o mentira para ela."
+  },
+  {
+    "titulo": "Diamante? Que diamante?",
+    "caso": "Um ladr\u00e3o \u00e9 surpreendido \u00e0 noite na mans\u00e3o do conde. Embora os guardas tenham parado o ladr\u00e3o antes que pudesse escapar, o diamante roubado nunca foi recuperado.",
+    "resolucao": "O ladr\u00e3o invadiu a mans\u00e3o com um pombo-correio. Pegou o diamante e amarrou-o a uma das patas do animal, que voou para fora da mans\u00e3o. O pombo retornou para a casa do ladr\u00e3o, e esperou por ele com o diamante."
+  },
+  {
+    "titulo": "Pacote n\u00e3o aberto",
+    "caso": "Um homem \u00e9 encontrado morto em um campo. Em torno dele h\u00e1 apenas um pacote fechado.",
+    "resolucao": "O homem estava fazendo paraquedismo e seu paraquedas n\u00e3o abriu. O pacote fechado era o paraquedas fechado."
+  },
+  {
+    "titulo": "O homem nu",
+    "caso": "Um homem nu \u00e9 encontrado morto em um pasto. Em sua m\u00e3o h\u00e1 um palito.",
+    "resolucao": "O homem estava viajando com alguns companheiros em um bal\u00e3o que estava prestes a cair. A fim de deixar o bal\u00e3o mais leve, todos tiraram suas roupas. Isso n\u00e3o foi suficiente e eles decidiram que um deles deveria saltar para que os outros pudessem sobreviver. Todos concordaram em tirar no palito. O homem que pegou o menor palito fez como prometido e saltou do bal\u00e3o."
+  },
+  {
+    "titulo": "O notici\u00e1rio",
+    "caso": "Um homem est\u00e1 assistindo ao notici\u00e1rio na TV: houve um terr\u00edvel acidente com muitas v\u00edtimas. Ele se levanta, acende a luz e comete suic\u00eddio.",
+    "resolucao": "O homem estava a cargo do farol e viu a not\u00edcia de que um navio tinha acabado de colidir porque o farol estava desligado. Sentindo-se muito culpado e afetado por seu erro, ele acendeu a luz para evitar um novo acidente e cometeu suic\u00eddio."
+  },
+  {
+    "titulo": "Que nojo!",
+    "caso": "Rita passou rapidamente de ter um monte de j\u00f3ias a morrer cercada por lixo.",
+    "resolucao": "Rita era uma ladra e tinha acabado de roubar um monte de j\u00f3ias. Para escapar da pol\u00edcia, ele decidiu se esconder em uma lixeira. O caminh\u00e3o de lixo chegou antes que ele pudesse sair. Devido ao barulho do caminh\u00e3o, ningu\u00e9m ouviu seus gritos e ela morreu triturada."
+  },
+  {
+    "titulo": "Vestida para morrer",
+    "caso": "Uma mulher termina de se vestir e morre.",
+    "resolucao": "Havia uma aranha muito venenosa em um de seus sapatos. Quando a mulher terminou de se vestir, ela colocou os sapatos e a aranha a mordeu."
+  },
+  {
+    "titulo": "Congelado",
+    "caso": "Se Thiago n\u00e3o tivesse cozinhado naquela noite, n\u00e3o seria congelado at\u00e9 a morte.",
+    "resolucao": "Thiago cozinhava fora de sua cabana nas montanhas. O cheiro de sua refei\u00e7\u00e3o atraiu um urso pr\u00f3ximo. Para afugent\u00e1-lo, ele deu um tiro com seu rifle. Isso causou uma avalanche que o enterrou. Algum tempo depois, ele morreu congelado."
+  },
+  {
+    "titulo": "Os p\u00e1ssaros",
+    "caso": "Um ornit\u00f3filo encontra um p\u00e1ssaro inesperado. Logo depois disso ele morre.",
+    "resolucao": "O homem era um passageiro em um pequeno avi\u00e3o. O p\u00e1ssaro colidiu no motor fazendo o avi\u00e3o bater no ch\u00e3o."
+  },
+  {
+    "titulo": "Sonho pr\u00e9-monit\u00f3rio",
+    "caso": "Um homem adverte seu chefe \"N\u00e3o pegue um v\u00f4o para Londres! Ontem \u00e0 noite eu tive um sonho que seu avi\u00e3o ia bater\". O homem \u00e9 imediatamente demitido.",
+    "resolucao": "O homem trabalhava como guarda de seguran\u00e7a e n\u00e3o deveria ter adormecido durante sua vig\u00edlia. O chefe demitiu o homem porque ele n\u00e3o fez o seu trabalho corretamente e essa n\u00e3o foi a primeira vez."
+  },
+  {
+    "titulo": "Morte ao volante",
+    "caso": "No assento do motorista de um carro, uma mulher \u00e9 encontrada morta. H\u00e1 uma arma no banco de tr\u00e1s, fora de seu alcance. As janelas est\u00e3o fechadas e as portas est\u00e3o todas trancadas.",
+    "resolucao": "A mulher estava sentada em um convers\u00edvel e o teto estava abaixado. O assassino atirou nela e jogou a arma no banco de tr\u00e1s do carro."
+  },
+  {
+    "titulo": "Os mortos dan\u00e7antes",
+    "caso": "Um casal de dan\u00e7arinos morre durante uma competi\u00e7\u00e3o de dan\u00e7a.",
+    "resolucao": "Durante uma competi\u00e7\u00e3o de tango, outro -muito competitivo- casal envenenou a rosa que o casal passou um ao outro durante o sua performance. Isso matou os dois. Desta forma os assassinos puderam ganhar a competi\u00e7\u00e3o."
+  },
+  {
+    "titulo": "Inocente?",
+    "caso": "Gabriel invade a casa de Alexandre para mat\u00e1-lo, mas n\u00e3o o faz. No entanto, Gabriel \u00e9 imediatamente preso e condenado pelo crime.",
+    "resolucao": "Gabriel era um assassino de aluguel. A pessoa que o contratou tinha planejado matar Alexandre e livrar-se de Gabriel. Para conseguir isso, ele contratou um segundo assassino de aluguel que matou Alexandre antes de Gabriel entrar. Quando Gabriel chegou, Alexandre estava morto e a pol\u00edcia j\u00e1 tinha sido chamada e estava a caminho."
+  },
+  {
+    "titulo": "O homem enforcado",
+    "caso": "Em uma sala trancada h\u00e1 um homem pendurado no teto e n\u00e3o h\u00e1 nenhum outro objeto em torno dele.",
+    "resolucao": "O homem queria tirar a pr\u00f3pria vida. N\u00e3o tendo qualquer outro suporte, ele usou um bloco de gelo. Ele chutou o bloco para se enforcar. Ap\u00f3s algum tempo, apenas uma pequena po\u00e7a de \u00e1gua foi deixada."
+  },
+  {
+    "titulo": "O Restaurante",
+    "caso": "Um homem entra num restaurante, come e se levanta da mesa chorando incontrolavelmente.",
+    "resolucao": "O homem era um dos poucos sobreviventes de um naufr\u00e1gio. Quando esteve com os outros na ilha que atingiram, foi-lhe dito que estavam comendo carne de tartaruga, que um dos sobreviventes ca\u00e7ara. O que eles estavam comendo, na realidade, era carne das pessoas que haviam morrido no acidente. Quando o homem provou a carne do restaurante, percebeu que a carne de outrora definitivamente n\u00e3o era de tartaruga..."
+  },
+  {
+    "titulo": "Os sapatos da morte",
+    "caso": "Uma mulher compra um par de sapatos vermelhos e sai para trabalhar. Enquanto trabalhava, ela morre.",
+    "resolucao": "A mulher trabalhava no circo, como assistente de um arremessador de facas. Seus novos sapatos eram um pouco mais altos do que de costume e seu parceiro de trabalho - que estava habituado a arremessar as facas sempre \u00e0 mesma altura - acaba ferindo-a mortalmente."
+  },
+  {
+    "titulo": "Fal\u00eancia",
+    "caso": "Um homem chega a um hotel em seu carro, e ent\u00e3o percebe que est\u00e1 encrencado.",
+    "resolucao": "O homem estava jogando Banco Imobili\u00e1rio e, em seu turno, chegou ao hotel mais caro do jogo, quando j\u00e1 n\u00e3o tinha quase nenhum dinheiro sobrando."
+  },
+  {
+    "titulo": "Morte na neve",
+    "caso": "H\u00e1 um corpo no meio da neve. O detetive que investiga o caso segue um tipo de marca de pneus na neve, que o levam a uma casa onde dentro est\u00e3o quatro pessoas. Ao encontrar as quatro pessoas, o detetive imediatamente identifica o assassino.",
+    "resolucao": "O culpado \u00e9 o \u00fanico que est\u00e1 em uma cadeira de rodas."
+  },
+  {
+    "titulo": "O melhor dia da vida dela",
+    "caso": "Ela pensou que aquele fosse o melhor dia de sua vida, momentos antes de morrer.",
+    "resolucao": "Ao final de um espet\u00e1culo teatral, a atriz principal apareceu e o p\u00fablico come\u00e7ou a aplaudir. Naquele momento, houve uma falha na estrutura do cen\u00e1rio, que come\u00e7ou a desabar sobre o palco. As pessoas levantaram-se de seus lugares gritando, tentando avisar \u00e0 atriz o que estava acontecendo, mas ela pensou que o p\u00fablico estivesse em p\u00e9 ovacionando-a e assim, morreu esmagada pelos escombros."
+  },
+  {
+    "titulo": "Ant\u00f4nio e Cle\u00f3patra",
+    "caso": "Ant\u00f4nio e Cle\u00f3patra s\u00e3o encontrados ca\u00eddos no ch\u00e3o, mortos, cercados por cacos de vidro.",
+    "resolucao": "Ant\u00f4nio e Cle\u00f3patra eram dois peixes que nadavam em um pequeno aqu\u00e1rio, que estava em cima de uma prateleira. Certa tarde, um gato entrou sorrateiramente na sala, atrav\u00e9s de uma janela aberta e derrubou o aqu\u00e1rio, que caiu da estante e quebrou-se contra o ch\u00e3o."
+  },
+  {
+    "titulo": "O Tesouro Perdido",
+    "caso": "Thiago escondeu um tesouro mas, quando decidiu recuper\u00e1-lo, n\u00e3o foi capaz de encontr\u00e1-lo.",
+    "resolucao": "Thiago enterrou o tesouro quando tinha 8 anos de idade. Logo ap\u00f3s, escreveu um bilhete, no qual marcou a dist\u00e2ncia - em passos - que ele deveria dar para encontrar novamente seu tesouro. Por\u00e9m, Thiago cresceu e seu passo ficou muito mais longo do que quando ele era crian\u00e7a. Assim, ele jamais p\u00f4de encontrar seu tesouro novamente."
+  },
+  {
+    "titulo": "Morrendo de fome",
+    "caso": "Uma mulher morre de fome, apesar de estar cercada por comida.",
+    "resolucao": "A mulher trabalhava no dep\u00f3sito de uma grande empresa de alimentos. Trabalhando sozinha em um feriado, acaba se trancando acidentalmente no dep\u00f3sito. Como toda a comida do lugar era enlatada - e n\u00e3o havia nenhum abridor de latas \u00e0 m\u00e3o - ela morre de fome."
+  },
+  {
+    "titulo": "Um crime perfeito",
+    "caso": "Uma mulher assassina o marido em sua casa. Ap\u00f3s investiga\u00e7\u00e3o da pol\u00edcia, concluem que foi um acidente.",
+    "resolucao": "A mulher planejara assassinar o marido, contudo, houve um terremoto. Ela ent\u00e3o aproveita o tremor para empurrar um arm\u00e1rio sobre o marido. Ao estudar a cena, a pol\u00edcia assume que o arm\u00e1rio caira durante o terremoto."
+  },
+  {
+    "titulo": "Um homem incomum",
+    "caso": "Um homem mora no 10\u00ba andar de um pr\u00e9dio. Todas as manh\u00e3s, para ir ao trabalho, ele pega normalmente o elevador at\u00e9 o t\u00e9rreo. Quando volta do trabalho, ele pega o elevador at\u00e9 o 7\u00ba andar. Ent\u00e3o, ele sai do elevador e sobe os 3 \u00faltimos andares pelas escadas.",
+    "resolucao": "O homem \u00e9 muito baixinho, ent\u00e3o ele n\u00e3o tem problema algum em apertar o bot\u00e3o do andar t\u00e9rreo do elevador. Por\u00e9m, ele n\u00e3o alcan\u00e7a o bot\u00e3o do 10\u00ba andar, alcan\u00e7ando no m\u00e1ximo o bot\u00e3o do 7\u00ba."
+  },
+  {
+    "titulo": "\u00c1gua?",
+    "caso": "Um homem morre desidratado em sua pr\u00f3pria casa, apesar de haver muita \u00e1gua dispon\u00edvel.",
+    "resolucao": "O homem morava em um iate. Um dia, estando em mar aberto, o iate sofreu uma falha que o impediu de voltar \u00e0 terra e de pedir ajuda. Apesar de estar cercado por \u00e1gua, ele n\u00e3o podia beb\u00ea-la e acabou morrendo de sede."
+  },
+  {
+    "titulo": "Uma liga\u00e7\u00e3o misteriosa",
+    "caso": "Um homem est\u00e1 deitado em sua cama, tentando dormir. Ele pega o telefone e faz uma liga\u00e7\u00e3o. Ele espera um pouco e desliga antes que algu\u00e9m possa atender a liga\u00e7\u00e3o e ent\u00e3o, dorme em paz.",
+    "resolucao": "Seu vizinho estava roncando muito alto e ele decide acord\u00e1-lo com a liga\u00e7\u00e3o. Antes do vizinho responder, quando o ronco havia parado, o homem desliga e vai dormir."
+  },
+  {
+    "titulo": "O mec\u00e2nico",
+    "caso": "Um homem vai \u00e0 oficina e solicita assist\u00eancia quando o mec\u00e2nico estiver dispon\u00edvel. O mec\u00e2nico responde estar ocupado pelas pr\u00f3ximas 2 horas. O homem agradece mas n\u00e3o volta \u00e0 oficina. Alguns dias depois, ele vai novamente ao mec\u00e2nico, que diz estar ocupado pela pr\u00f3xima 1 hora. Novamente, o homem n\u00e3o retorna. No dia seguinte o homem vai novamente ao mec\u00e2nico que diz \"voc\u00ea est\u00e1 com sorte, mais 5 minutos e eu estarei dispon\u00edvel\" mas o homem vai embora da mesma forma.",
+    "resolucao": "O homem n\u00e3o queria um conserto em seu carro. Na verdade, ele estava tendo um caso com a esposa do mec\u00e2nico e queria saber quanto tempo ele podia ficar com ela sem ser p\u00eago."
+  },
+  {
+    "titulo": "Um bom plano",
+    "caso": "Ap\u00f3s um cuidadoso planejamento, cinco homens invadem uma casa e pegam milhares de reais em dinheiro. O dono da casa \u00e9 o \u00fanico a ir preso.",
+    "resolucao": "Os cinco homens eram policiais e eles tinham um mandado de pris\u00e3o de entrar na casa do mafioso e pegar todo o seu dinheiro. Ap\u00f3s planejar a opera\u00e7\u00e3o, eles prenderam o dono da casa."
+  },
+  {
+    "titulo": "Que a festa comece!",
+    "caso": "Um homem pede demiss\u00e3o do emprego e comemora fazendo uma festa noite adentro. No dia seguinte ele se veste e pula da sacada do seu apartamento.",
+    "resolucao": "O homem ganhou na loteria. Ele pede demiss\u00e3o e comemora com os amigos. No dia seguinte, ele se veste para resgatar o pr\u00eamio mas percebe que o bilhete foi destru\u00eddo ao lavar seu terno alguns dias antes."
+  },
+  {
+    "titulo": "\u00c0 queima-roupa",
+    "caso": "Jos\u00e9 dispara 3 tiros \u00e0 queima-roupa e o sangue cobre seu rosto. Ent\u00e3o, ao ver a rea\u00e7\u00e3o de todos a sua volta, ele decide ir comemorar.",
+    "resolucao": "Jos\u00e9 estava atuando sua \u00faltima cena em um filme de a\u00e7\u00e3o e ap\u00f3s v\u00e1rias tentativas, ele consegue a cena perfeita e decide comemorar."
+  },
+  {
+    "titulo": "A Ilha",
+    "caso": "Um pirata enterra um tesouro em uma ilha deserta. Um tempo depois, ele tenta retornar \u00e0 ilha mas nunca consegue apesar de carregar o mapa consigo.",
+    "resolucao": "O pirata desenhou o mapa e pediu a um tatuador para tatu\u00e1-lo em suas costas. Para ver o mapa, era necess\u00e1rio um espelho e o pirata n\u00e3o se dava conta que o mapa ficava ao contr\u00e1rio, ent\u00e3o ao interpret\u00e1-lo ele ia na dire\u00e7\u00e3o errada."
+  },
+  {
+    "titulo": "O r\u00e1dio silencioso",
+    "caso": "Um homem dirigia seu carro ouvindo o r\u00e1dio quando de repente o r\u00e1dio fica mudo. Ent\u00e3o ele decide sair da estrada e se jogar do alto de um precip\u00edcio.",
+    "resolucao": "O homem era um radialista que havia cometido um assassinato. Ele fugiu e deixou uma transmiss\u00e3o de r\u00e1dio ao vivo como \u00e1libi. Ao perceber que o programa preparado acidentalmente parou de ser transmitido, e que perceberiam que ele era culpado, decide acabar com a pr\u00f3pria vida."
+  },
+  {
+    "titulo": "O livro esquecido",
+    "caso": "Uma mulher entrega um livro a um homem. Ele olha o livro e diz \"vai custar 3 reais\". A mulher paga pelo livro e deixa o local. Apesar de ela n\u00e3o levar o livro e o homem ter percebido, ele n\u00e3o conta a ela.",
+    "resolucao": "A mulher estava devolvendo o livro \u00e0 biblioteca. Por estar com o livro muito atrasado, precisou pagar uma multa."
+  },
+  {
+    "titulo": "Um final inesperado",
+    "caso": "Uma dan\u00e7arina ex\u00f3tica vai a um encontro para uma sess\u00e3o privada com um homem. Na sala em que eles estavam, ela tira sua blusa e suti\u00e3. O homem se aproxima, observa seus seios e sorri. Logo ap\u00f3s, ela se veste, paga o homem e vai embora.",
+    "resolucao": "A mulher passou por uma cirurgia pl\u00e1stica para aumento dos seios poucos dias antes e marcou um hor\u00e1rio com o cirurgi\u00e3o para avaliar o resultado da opera\u00e7\u00e3o. O homem diz que tudo estava perfeito e foi feito um \u00f3timo trabalho. Finalmente a mulher paga a conta e deixa a cl\u00ednica."
+  },
+  {
+    "titulo": "Varanda",
+    "caso": "Dois homens discutem na varanda enquanto outras pessoas assistem da rua. De repente um homem agarra o outro e o empurra varanda abaixo, causando sua morte. Entretando, a pol\u00edcia prende uma das pessoas que estavam na rua.",
+    "resolucao": "Era uma cena de filme e os dois dubl\u00eas estavam brigando. Um dos dubl\u00eas deveria cair em um colch\u00e3o especial mas este foi colocado no lugar errado. A pol\u00edcia culpou o t\u00e9cnico que colocou o colch\u00e3o no lugar errado."
+  },
+  {
+    "titulo": "A discuss\u00e3o",
+    "caso": "Ap\u00f3s uma discuss\u00e3o, Lucas empurra Vinicius, que fica incr\u00e9dulo enquanto tudo acontece. Ap\u00f3s alguns minutos, Lucas morre.",
+    "resolucao": "Lucas e Vinicius estavam em um avi\u00e3o sobrevoando a floresta. Houve uma falha mec\u00e2nica e eles sabiam que o avi\u00e3o ia bater. Eles perceberam que s\u00f3 havia um p\u00e1ra-quedas, e discutiam sobre quem deveria ser salvo; cada um queria que o outro sobrevivesse. Por um instante, Vinicius tinha o p\u00e1ra-quedas em suas m\u00e3os e Lucas decidiu empurr\u00e1-lo do avi\u00e3o para que este sobrevivesse."
+  },
+  {
+    "titulo": "A morte est\u00e1 no ar",
+    "caso": "Marcia vai com seu marido ao aeroporto, pois ele embarcaria no v\u00f4o das 7:45 da manh\u00e3 da Air France, de Paris a Moscou. Ela o v\u00ea embarcar e volta para casa. Marcia come\u00e7a a assistir um filme e 30 minutos depois, aparece o plant\u00e3o de not\u00edcias anunciando que o v\u00f4o das 7:45 da manh\u00e3, da Air France de Paris a Moscou havia sofrido um acidente. N\u00e3o h\u00e1 sobreviventes mas Marcia continua assistindo ao filme.",
+    "resolucao": "O filme que ela estava assistindo na TV era de duas semanas antes. Ela gravou o filme e s\u00f3 agora estava assistindo."
+  },
+  {
+    "titulo": "Bye bye suti\u00e3",
+    "caso": "Um homem encontra uma mulher que nunca havia visto antes. Ele tira sua blusa e seu suti\u00e3 e depois a leva consigo. O marido da mulher assiste a tudo mas n\u00e3o faz nada para impedir.",
+    "resolucao": "A mulher estava tendo um ataque card\u00edaco e seu marido chamou uma ambul\u00e2ncia. Quando o param\u00e9dico chegou, tirou as roupas da mulher para realizar uma defibrila\u00e7\u00e3o. Depois, a levou ao hospital."
+  },
+  {
+    "titulo": "Explos\u00e3o",
+    "caso": "Ocorre uma explos\u00e3o diante de v\u00e1rias testemunhas. Uma pessoa desaparece na explos\u00e3o e apesar de haver um policial no local, nenhuma investiga\u00e7\u00e3o \u00e9 iniciada.",
+    "resolucao": "Ao final de um show de m\u00e1gica, o m\u00e1gico cria uma pequena explos\u00e3o e desaparece. O policial na plateia se diverte com o truque e claro, n\u00e3o inicia uma investiga\u00e7\u00e3o."
+  },
+  {
+    "titulo": "Afogado",
+    "caso": "Ap\u00f3s Jorge tentar abra\u00e7ar uma pessoa, ele morre por afogamento.",
+    "resolucao": "Jorge estava b\u00eabado e v\u00ea seu reflexo num rio. Por estar alcoolizado, ele achou que era uma boa id\u00e9ia abra\u00e7ar o \"estranho\". Por\u00e9m isso fez com que ele ca\u00edsse no rio e se afogasse."
+  },
+  {
+    "titulo": "O grande salvamento",
+    "caso": "Uma mulher estava andando na praia quando encontra um ba\u00fa cheio de moedas e joias. Apesar de seu elevado valor, ela n\u00e3o gasta nada pelos pr\u00f3ximos 2 anos. Um dia, ela decide comprar uma nova casa, um iate e um anel de diamantes exclusivo.",
+    "resolucao": "A mulher estava navegando com o marido quando ela naufragou. Ela encontrou o tesouro ao procurar por comida na costa mas ela n\u00e3o pode us\u00e1 - lo at\u00e9 ser resgatada 2 anos depois."
+  },
+  {
+    "titulo": "Correndo rumo \u00e0 vit\u00f3ria",
+    "caso": "Marcos, corredor profissional, compete contra J\u00falio, que teve um ataque card\u00edaco recentemente. Surpreendentemente, J\u00falio \u00e9 r\u00e1pido e ganha de Marcos.",
+    "resolucao": "Marcos foi visitar J\u00falio no hospital e levou um jogo de xadrez para anim\u00e1-lo. Marcos n\u00e3o sabia que J\u00falio era um ex\u00edmio jogador de xadrez e perdeu ap\u00f3s poucas jogadas."
+  },
+  {
+    "titulo": "Tarde demais",
+    "caso": "Uma mulher corre pelo corredor mas para de repente, e com l\u00e1grimas nos olhos, d\u00e1 meia volta.",
+    "resolucao": "A mulher era uma advogada que finalmente conseguiu que seu cliente que estava sentenciado \u00e0 pena de morte, fosse perdoado. Ela estava correndo para a cadeira el\u00e9trica a fim de parar a execu\u00e7\u00e3o mas ao ver as luzes do corredor piscando, ela se deu conta de que era tarde demais."
+  },
+  {
+    "titulo": "Uma \u00f3tima oportunidade",
+    "caso": "Um colecionador de moedas encontra um an\u00fancio sobre uma cole\u00e7\u00e3o por um pre\u00e7o muito baixo. Ap\u00f3s ler cuidadosamente, ele decide comprar. Apesar do an\u00fancio ser verdadeiro e o valor ser muito mais alto que o gasto, ele fica muito zangado.",
+    "resolucao": "A esposa do colecionador descobriu que ele tinha um caso com outra mulher. Para se vingar, ela colocou a venda a cole\u00e7\u00e3o de moedas do marido por um pre\u00e7o baixo para conseguir vender r\u00e1pido. Quando o homem percebeu o ocorrido, comprou as moedas r\u00e1pido antes que algu\u00e9m o fizesse."
+  },
+  {
+    "titulo": "A \u00faltima mensagem",
+    "caso": "Um homem morre no natal ap\u00f3s receber um SMS.",
+    "resolucao": "O homem era um terrorista que estava planejando um ataque. Ele armou a bomba para explodir ao receber a mensagem de texto. Quando estava em casa fazendo os retoques finais, recebeu uma mensagem de \"Feliz Natal\" da operadora de celular e isso explodiu a bomba."
+  },
+  {
+    "titulo": "Um rosto muito familiar",
+    "caso": "Uma mulher sa\u00eda de casa \u00e0s 7 da manh\u00e3 para trabalhar. Ela sempre v\u00ea o mesmo homem na parada de \u00f4nibus. Ao voltar do trabalho ela tamb\u00e9m o v\u00ea. Um dia a mulher vai ao seu banheiro e fica abismada ao ver o homem l\u00e1.",
+    "resolucao": "O que a mulher via na parada de \u00f4nibus era um p\u00f4ster com a foto de um homem em uma campanha publicit\u00e1ria. Um dia a mulher vai ao banheiro e encontra o mesmo homem numa propaganda de revista."
+  },
+  {
+    "titulo": "Um homem e uma mulher est\u00e3o hospedados em um hotel.",
+    "caso": "O homem olha para a mulher, pisca um olho e logo ap\u00f3s a mulher cai morta no ch\u00e3o.",
+    "resolucao": "O homem e a mulher estavam hospedados em quartos diferentes do mesmo hotel. O homem era um assassino de aluguel contratado para mat\u00e1-la. Uma noite, de seu quarto, o homem pega seu rifle com vis\u00e3o telesc\u00f3pica, pisca um olho para mirar e atira nela."
+  },
+  {
+    "titulo": "O gato preto",
+    "caso": "Um gato preto est\u00e1 andando no meio da rua quando uma luz de poste se quebra. Um homem est\u00e1 dirigindo seu carro com os farois que n\u00e3o funcionam. Apesar disso, ele consegue desviar e n\u00e3o ferir o gato.",
+    "resolucao": "O homem desviou do gato porque estava de dia."
+  },
+  {
+    "titulo": "O presente",
+    "caso": "Jo\u00e3o sabe que est\u00e1 morrendo. Momentos antes de morrer ele olha para o rosto da pessoa que est\u00e1 na sua frente e d\u00e1 a ela algo que tirou do bolso. Jo\u00e3o olha para o rosto da pessoa e sorri. Agora, ele pode descansar em paz.",
+    "resolucao": "Jo\u00e3o era um soldado na Primeira Guerra Mundial. Enquanto estava sozinho na trincheira, um soldado inimigo pula em sua frente e o esfaqueia no peito com sua baioneta. Enquanto ainda est\u00e1 com a baioneta cravada em seu peito, Jo\u00e3o tira uma granada do bolso da jaqueta, remove o anel da granada com a mesma m\u00e3o e a entrega ao soldado inimigo. Jo\u00e3o morre feliz ap\u00f3s ver a express\u00e3o de terror no rosto do inimigo."
+  },
+  {
+    "titulo": "Crime n\u00e3o resolvido",
+    "caso": "Quando Luiza estava prestes a descobrir quem matou Marcos, ela cai no sono. Ao acordar, ela percebe que n\u00e3o tem mais como descobrir quem o matou.",
+    "resolucao": "Luiza estava lendo um livro na praia. Marcos, o personagem principal, foi assassinado e ela estava prestes a descobrir quem cometeu o crime. Antes de descobrir, ela dormiu deitada na areia com o livro. Quando acordou, a mar\u00e9 havia subido e o livro foi levado embora."
+  },
+  {
+    "titulo": "Lagosta mortal",
+    "caso": "Um homem senta \u00e0 mesa e come uma grande lagosta. Ele sabe ser al\u00e9rgico a frutos do mar e que isso pode mat\u00e1-lo mas come tudo. Logo ap\u00f3s isso, ele morre.",
+    "resolucao": "O homem estava no corredor da morte e essa era sua \u00faltima refei\u00e7\u00e3o. Ele n\u00e3o se importou com a alergia pois morreria de qualquer jeito."
+  },
+  {
+    "titulo": "Correndo para a morte",
+    "caso": "Uma mulher caminha sozinha em uma rua escura. Um homem caminha atr\u00e1s dela. A mulher come\u00e7a a caminhar mais r\u00e1pido e o homem faz o mesmo. A mulher olha para ele e come\u00e7a a correr. O homem come\u00e7a a correr atr\u00e1s dela e logo ap\u00f3s, a mulher morre.",
+    "resolucao": "A mulher deixou sua pulseira cair no ch\u00e3o e o homem a pega e tenta devolver. Como a mulher estava ouvindo m\u00fasica, ela n\u00e3o escuta o homem e fica com medo dele. Como estava correndo assustada, ela n\u00e3o percebe que estava no meio da rua e um carro a atinge com consequ\u00eancias fatais."
+  },
+  {
+    "titulo": "M\u00e3os ao alto",
+    "caso": "Paulo entra em um ambiente lotado. Ele saca uma arma e atira v\u00e1rias vezes. Algumas pessoas erguem as m\u00e3os prontas para entregar seu dinheiro. Entretanto, mesmo havendo alguns policiais l\u00e1, ele n\u00e3o \u00e9 preso.",
+    "resolucao": "Paulo trabalhava em uma casa de leil\u00f5es aonde uma pistola foi oferecida por um bom pre\u00e7o. Ap\u00f3s provar que a pistola funcionava adequadamente, os participantes ergueram as m\u00e3os para dar lances pela pistola. Obviamente, ningu\u00e9m foi preso."
+  },
+  {
+    "titulo": "A vi\u00fava",
+    "caso": "Uma vi\u00fava que matou seu parceiro encontra um novo. Ela o mata logo pelas mesmas raz\u00f5es do anterior.",
+    "resolucao": "A vi\u00fava \u00e9 uma vi\u00fava negra (uma aranha) que frequentemente mata seu parceiro ap\u00f3s copular."
+  },
+  {
+    "titulo": "Tesoura mortal",
+    "caso": "Uma mulher \u00e9 encontrada morta no hospital e a arma do crime \u00e9 uma tesoura. Entretanto, n\u00e3o h\u00e1 cortes no corpo ou feridas de qualquer tipo.",
+    "resolucao": "A condi\u00e7\u00e3o da mulher era cr\u00edtica e os m\u00e9dicos a conectaram a aparelhos para mant\u00ea-la viva. O assassino simplesmente cortou os fios dos aparelhos com tesouras para dar fim a sua vida."
+  },
+  {
+    "titulo": "A biblioteca",
+    "caso": "Uma mulher vai \u00e0 biblioteca, pega um livro e chora.",
+    "resolucao": "A mulher era uma escritora e doou um de seus livros \u00e0 biblioteca. Ela colocou uma nota de 50 reais dentre as p\u00e1ginas como presente para o primeiro que pegasse o livro emprestado. Ap\u00f3s um ano, ela voltou \u00e0 biblioteca, pegou o livro e viu que a c\u00e9dula ainda estava l\u00e1. Percebendo que ningu\u00e9m havia lido seu livro, ela se debulha em l\u00e1grimas."
+  },
+  {
+    "titulo": "O detetive",
+    "caso": "Uma mulher faz perguntas ao seu amigo policial sobre uma morte estranha. Ap\u00f3s 5 minutos o policial fica surpreso ao ver que a mulher descobriu a causa da morte.",
+    "resolucao": "A mulher e o policial eram amigos e estavam jogando \"Dark Stories\". O policial leu uma hist\u00f3ria e achou que sua amiga n\u00e3o iria resolv\u00ea-la. Ele ficou surpreso quando a mulher, ap\u00f3s algumas perguntas, descobriu a solu\u00e7\u00e3o."
+  },
+  {
+    "titulo": "\u00d3culos quebrados",
+    "caso": "Jos\u00e9 trope\u00e7a ao correr e seus \u00f3culos caem enquanto ele atinge o ch\u00e3o. Logo ap\u00f3s, ele encontra os \u00f3culos e v\u00ea que h\u00e1 muitas pessoas morrendo ao seu redor. Apesar de sua fam\u00edlia ter acabado de morrer, ele mant\u00e9m um sorriso no rosto.",
+    "resolucao": "Jos\u00e9 trabalhava como palha\u00e7o em um circo quando houve uma debandada de animais. Ele trope\u00e7ou por causa do tamanho de seus sapatos de palha\u00e7o e perdeu seus \u00f3culos. Quando encontrou os \u00f3culos ele p\u00f4de ver muitas pessoas morrendo devido a f\u00faria e o caos causados pela debandada. Ele estava triste porque sua fam\u00edlia tamb\u00e9m morreu. Entretanto, por estar usando a maquiagem de palha\u00e7o, ele continuou com o sorriso."
+  },
+  {
+    "titulo": "O disparo",
+    "caso": "Um homem dispara uma arma de fogo no meio da rua, fazendo v\u00e1rias pessoas correrem. Logo ap\u00f3s, uma ambul\u00e2ncia socorre um ferido mas ningu\u00e9m prende o homem.",
+    "resolucao": "O homem deu o tiro de largada em uma maratona. Um dos corredores se machucou no in\u00edcio da corrida, mas obviamente n\u00e3o houve pris\u00e3o."
+  },
+  {
+    "titulo": "Corra Forrest, corra!",
+    "caso": "Carlos sai correndo de um pr\u00e9dio com duas malas nas m\u00e3os. Um outro homem corre atr\u00e1s dele, gritando e acenando com facas bem afiadas.",
+    "resolucao": "Carlos foi fazer compras. Ao terminar, ele percebeu que estava atrasado para o trabalho e correu para seu carro. Ele estava com tanta pressa que esqueceu seu brinde por gastar mais de 450 reais: um conjunto de facas de churrasco. O caixa, vendo que ele esqueceu seu presente, correu atr\u00e1s dele tentando entreg\u00e1-lo."
+  },
+  {
+    "titulo": "Morte sagrada",
+    "caso": "Quando o padre parou de falar, Dudu morreu.",
+    "resolucao": "Dudu era um hamster que foi \u00e0 Igreja junto com Enzo, seu dono de 9 anos de idade. Quando o padre estava falando em frente as fieis, o hamster escapou do colo do menino e foi ao altar. Quando o padre terminou o serm\u00e3o e foi em dire\u00e7\u00e3o \u00e0 sua cadeira, ele n\u00e3o viu Dudu e o esmagou com seu p\u00e9."
+  },
+  {
+    "titulo": "Toque toque",
+    "caso": "Tiago, um agente do servi\u00e7o secreto, estava relaxando em seu quarto de hotel em Paris quando houve algu\u00e9m batendo na porta. Ele abre a porta e v\u00ea uma bela mulher que ele nunca tinha visto antes. Ela se desculpa porque se enganou achando que era seu pr\u00f3prio quarto. A mulher saiu mas imediatamente Tiago sacou sua arma para impedi-la.",
+    "resolucao": "Tiago sabia que a mulher estava mentindo porque ela n\u00e3o teria batido na porta do seu pr\u00f3prio quarto antes de entrar."
+  },
+  {
+    "titulo": "Escada para a morte",
+    "caso": "Marcos cai das escadas mas apesar dos ferimentos ele n\u00e3o morre. Por\u00e9m, a pessoa que testemunha a queda morre.",
+    "resolucao": "Marcos era uma crian\u00e7a que escorregou e caiu das escadas. Sua m\u00e3e, que sofria de problemas card\u00edacos, testemunhou o acidente. Ela ficou t\u00e3o apavorada ao ver seu filho cair que ela desmaiou e bateu severamente a cabe\u00e7a, morrendo imediatamente."
+  },
+  {
+    "titulo": "O assassino da motosserra",
+    "caso": "Um grupo de pessoas observa um homem matar uma mulher com uma motosserra diante deles. Apesar disso, nenhum deles pede por socorro.",
+    "resolucao": "Um grupo de amigos decidiu passar o dia em um parque de divers\u00f5es e entraram na Casa Mal Assombrada. Ambos homem com a motosserra quanto a mulher eram atores. O grupo de amigos riu depois de como eles ficaram assustados."
+  },
+  {
+    "titulo": "M\u00e3os sangrentas",
+    "caso": "Marcela d\u00e1 um tapa na filha de B\u00e1rbara, um beb\u00ea de 2 anos. B\u00e1rbara observa Marcela limpando o sangue em sua m\u00e3o e a agradece.",
+    "resolucao": "Marcela e B\u00e1rbara estavam de f\u00e9rias em um pa\u00eds tropical. Em dado momento, Marcela viu um mosquito no bra\u00e7o do beb\u00ea. Sem pensar duas vezes, Marcela mata o mosquito com um tapa, atingindo o beb\u00ea. B\u00e1rbara viu Marcela limpando o sangue do mosquito em sua m\u00e3o e a agradeceu, j\u00e1 que o mosquito poderia transmitir v\u00e1rias doen\u00e7as."
+  },
+  {
+    "titulo": "Morte na escola",
+    "caso": "Rosa, uma professora, n\u00e3o teria morrido aquele dia se n\u00e3o tivesse feito um elogio a Sara, sua colega de trabalho.",
+    "resolucao": "O marido de Sara contratou um assassino de aluguel para mat\u00e1-la enquanto ela trabalhava na escola. Ele queria ela morta o mais r\u00e1pido poss\u00edvel, ent\u00e3o ele deu ao assassino uma descri\u00e7\u00e3o b\u00e1sica de Sara e sua jaqueta verde, que ela gostava muito e estaria usando aquele dia. Naquele dia, Rosa disse a Sara que havia achado a jaqueta muito bonita. Sara decidiu emprestar a jaqueta para Rosa durante o dia. Quando o assassino procurou pela v\u00edtima, ele identificou a jaqueta e como Sara e Rosa tinham um peso parecido e a mesma cor de cabelo, o assassino achou que Rosa era seu alvo e a matou."
+  },
+  {
+    "titulo": "A viagem",
+    "caso": "Um homem chega sem f\u00f4lego a uma casa, fecha a porta e desce as r\u00e1pido as escadas. Depois, ele anda dois quarteir\u00f5es at\u00e9 outra casa, entra e respira aliviado.",
+    "resolucao": "O homem havia acabado de se mudar. Ele chegou \u00e0 sua nova casa com as \u00faltimas caixas, ent\u00e3o respirou aliviado ao terminar a mudan\u00e7a."
+  },
+  {
+    "titulo": "A \u00faltima atua\u00e7\u00e3o",
+    "caso": "Se a atua\u00e7\u00e3o de Helen n\u00e3o tivesse sido t\u00e3o boa, ela ainda estaria viva.",
+    "resolucao": "Miguel trabalhava em um pequeno teatro da cidade ajustando o palco e se certificando que tudo funcionava bem. Um dia, Miguel segurava os holofotes com uma corda para deixar a ilumina\u00e7\u00e3o perfeita. Ao final da pe\u00e7a, ele gostou tanto da atua\u00e7\u00e3o de Helen que esqueceu estar segurando a corda e come\u00e7ou a aplaudir. Os holofotes ca\u00edram atingindo Helen, que morreu no palco."
+  },
+  {
+    "titulo": "Um igresso caro demais",
+    "caso": "Pedro decide comprar ingressos para passar o dia com a fam\u00edlia. Apesar de ele ter comprado os ingressos para sua fam\u00edlia, ele pagou pelo seu ingresso com a pr\u00f3pria vida.",
+    "resolucao": "Pedro e sua fam\u00edlia foram ao zool\u00f3gico. Ele achou que os ingressos eram muito caros ent\u00e3o comprou somente para sua fam\u00edlia. Ele decidiu escalar o muro para entrar escondido, por\u00e9m n\u00e3o sabia que do outro lado do muro ficava a jaula do le\u00e3o. Quando ele percebeu, era tarde demais para escapar."
+  },
+  {
+    "titulo": "Divers\u00e3o fatal",
+    "caso": "Cinco amigos est\u00e3o a procura de divers\u00e3o durante a tarde. Ap\u00f3s um tempo, um deles come\u00e7a a sangrar. Ap\u00f3s alguns minutos, seis pessoas morrem.",
+    "resolucao": "O grupo de amigos foi para uma Escape Room. O objetivo era encontrar uma sa\u00edda de uma casa em chamas. Inicialmente eles estavam em uma sala com fuma\u00e7a liberada em alguns momentos para criar uma atmosfera mais realista. Num dado momento, um deles se machucou. A atendente da sala ficou t\u00e3o assustada que teve um ataque card\u00edaco, caindo no bot\u00e3o que ativava a fuma\u00e7a. Ap\u00f3s alguns minutos, todo grupo morreu sufocado."
+  },
+  {
+    "titulo": "O funeral",
+    "caso": "Uma mulher vai ao funeral de sua m\u00e3e. Ap\u00f3s alguns dias, ela mata sua irm\u00e3.",
+    "resolucao": "A mulher se apaixonou por um homem no funeral de sua m\u00e3e, mas esqueceu de pedir seu n\u00famero de telefone. Alguns dias depois, ela matou sua irm\u00e3 esperando encontrar o homem novamente."
+  },
+  {
+    "titulo": "Tiquetaque",
+    "caso": "Alice est\u00e1 prestes a ir ao trabalho, quando encontra uma caixa com seu nome escrito. Dentro dessa caixa tem um rel\u00f3gio funcionando. Ao olhar para o rel\u00f3gio, ela come\u00e7a a correr o mais r\u00e1pido que pode.",
+    "resolucao": "Alice havia acabado de se mudar para seu novo apartamento e estava organizando a mudan\u00e7a. Ao abrir a caixa, ela se d\u00e1 conta de que estava atrasada para o trabalho."
+  },
+  {
+    "titulo": "Ai meu carro!",
+    "caso": "Um homem ataca o carro de luxo de Victor. Mesmo vendo seu carro ser destru\u00eddo, ele n\u00e3o fez qualquer esfor\u00e7o para parar o homem.",
+    "resolucao": "Victor e Mateus fizeram uma aposta. Foi acordado que o vencedor poderia destruir o carro do perdedor. Victor perdeu a aposta."
+  },
+  {
+    "titulo": "A persegui\u00e7\u00e3o",
+    "caso": "Duas pessoas est\u00e3o em um t\u00e1xi, seguidas por uma viatura policial e um caminh\u00e3o de bombeiro. Um tempo depois, todos os ve\u00edculos param e os dois v\u00e3o para casa. No entanto, ningu\u00e9m deixa os demais ve\u00edculos.",
+    "resolucao": "Os dois eram um homem e seu filho num carrossel. Eles estavam no t\u00e1xi e atr\u00e1s do t\u00e1xi haviam uma viatura policial e um caminh\u00e3o de bombeiro. Tanto a viatura quando o caminh\u00e3o de bombeiros estavam vazios."
+  },
+  {
+    "titulo": "Nova loja",
+    "caso": "J\u00e9ssica abre uma loja de velas e por dois meses, pouqu\u00edssimas pessoas entraram na loja. Certo dia, um grupo de pessoas entra na loja mas ela n\u00e3o fica feliz com isso.",
+    "resolucao": "O grupo de pessoas na verdade eram alguns funcion\u00e1rios do banco e um policial, que foram confiscar a loja de J\u00e9ssica, porque ela n\u00e3o estava conseguindo pagar as contas."
+  },
+  {
+    "titulo": "At\u00e9 que a morte os separe",
+    "caso": "Raquel n\u00e3o via seu marido a v\u00e1rios meses e certo dia decide visit\u00e1-lo. Ao encontrar seu marido, ela o mata.",
+    "resolucao": "O marido de Raquel fingiu a pr\u00f3pria morte para engan\u00e1-la e ent\u00e3o casar-se com outra mulher. Seis meses ap\u00f3s o funeral, Raquel vai visitar o t\u00famulo do marido e no caminho do cemit\u00e9rio o encontra com a nova esposa. Ela se d\u00e1 conta do que aconteceu e o mata."
+  },
+  {
+    "titulo": "Morte em mar aberto",
+    "caso": "Cinco amigos pegam um barco de pesca para passar a tarde em mar aberto. Ap\u00f3s nadar por um tempo, eles percebem que ir\u00e3o morrer.",
+    "resolucao": "O grupo de amigos pulou no mar para se refrescar. Ao perceberem que ningu\u00e9m lembrou de estender as escadas, eles se d\u00e3o conta de que ir\u00e3o morrer."
+  },
+  {
+    "titulo": "O \u00faltimo encontro",
+    "caso": "Um homem leva sua namorada para um jantar rom\u00e2ntico em um restaurante. Ao final do encontro, ela morre diante dele.",
+    "resolucao": "O homem queria pedir sua namorada em casamento, e para isso pediu ao gar\u00e7om para colocar o anel na ta\u00e7a de champanhe de sua namorada. Ela tomou o champanhe muito r\u00e1pido, sem perceber o anel. Infelizmente, ela sufocou com o anel e morreu."
+  },
+  {
+    "titulo": "Morte no parque",
+    "caso": "Uma mulher \u00e9 encontrada morta em um parque. O policial liga para o irm\u00e3o da v\u00edtima e pede que ele v\u00e1 ao local do crime para identificar o corpo. Ao chegar, ele \u00e9 preso imediatamente.",
+    "resolucao": "O policial esqueceu de contar ao irm\u00e3o da v\u00edtima onde o crime ocorreu. O policial ficou muito surpreso com a chegada do irm\u00e3o, e percebeu que ele era o assassino, j\u00e1 que sabia a localiza\u00e7\u00e3o do corpo."
+  },
+  {
+    "titulo": "Gol!",
+    "caso": "Duas crian\u00e7as est\u00e3o jogando futebol na rua. Uma delas, sem querer atinge a mulher na cabe\u00e7a com a bola. Inesperadamente, ela agradece \u00e0 crian\u00e7a.",
+    "resolucao": "A mulher estava prestes a atravessar a rua sem perceber que havia um caminh\u00e3o vindo. Se a crian\u00e7a n\u00e3o tivesse a atingido com a bola, o caminh\u00e3o a teria atropelado."
+  },
+  {
+    "titulo": "O bot\u00e3o",
+    "caso": "Um homem est\u00e1 trabalhando nas ruas, quando pede ajuda a uma mulher. Ela aperta um bot\u00e3o e o homem morre.",
+    "resolucao": "O homem \u00e9 um engolidor de espadas e pediu a uma pessoa da plateia para inserir um objeto longo em sua boca. A mulher coloca seu guarda-chuva na boca do homem, por\u00e9m aperta o bot\u00e3o do guarda-chuva acidentalmente, fazendo com que ele abra. O homem morreu sufocado."
+  },
+  {
+    "titulo": "Ladr\u00e3o impar\u00e1vel",
+    "caso": "Um ladr\u00e3o entra no quarto em que Helen est\u00e1 dormindo e come\u00e7a a procurar por bens de valor. Ela acorda e v\u00ea o ladr\u00e3o e apesar de n\u00e3o estar com medo, n\u00e3o faz nada para impedi-lo.",
+    "resolucao": "Helen era um beb\u00ea de um ano e n\u00e3o entendia o que estava acontecendo."
+  },
+  {
+    "titulo": "Sono inquieto",
+    "caso": "Felipe chega cansado em casa. Ele vai ao seu quarto, desligando a luz para dormir. Ap\u00f3s um tempo, sentindo-se desconfort\u00e1vel, ele acende a luz e olha ao redor. Ele apaga a luz novamente e tenta dormir. Ap\u00f3s fazer isso v\u00e1rias vezes, ele olha debaixo da cama e encontra um cad\u00e1ver.",
+    "resolucao": "Um ladr\u00e3o estava roubando a casa de Felipe. Quando Felipe chegou em casa, o ladr\u00e3o se escondeu embaixo da cama. O ladr\u00e3o ficou t\u00e3o nervoso que sofreu um infarto. Felipe n\u00e3o conseguia dormir por causa do barulho do rel\u00f3gio de pulso do ladr\u00e3o."
+  },
+  {
+    "titulo": "Fuga da pris\u00e3o",
+    "caso": "Marcos est\u00e1 na pris\u00e3o. Certo dia ele almo\u00e7a, vai ao p\u00e1tio da pris\u00e3o e por fim visita a biblioteca. \u00c0 noite, fora do alcance das c\u00e2meras de seguran\u00e7a, ele troca de roupa. Ent\u00e3o ele passa pelos port\u00f5es e deixa a pris\u00e3o sem ser p\u00eago.",
+    "resolucao": "Marcos era agente penitenci\u00e1rio."
+  },
+  {
+    "titulo": "Hora de dormir",
+    "caso": "Uma mulher est\u00e1 assistindo a um filme. De repente ela ouve explos\u00f5es e pessoas gritando na rua. Depois tudo fica em sil\u00eancio. A mulher desliga a televis\u00e3o e vai dormir.",
+    "resolucao": "Era v\u00e9spera de Ano Novo. A mulher esperou as pessoas pararem de comemorar e ent\u00e3o foi dormir."
+  },
+  {
+    "titulo": "Morte sob um guarda-chuva",
+    "caso": "Um casal encontra um cad\u00e1ver na praia. O cad\u00e1ver est\u00e1 sob um guarda-chuva e tem uma faca nas costas. N\u00e3o h\u00e1 sinais de viol\u00eancia e sangue. A aut\u00f3psia indicou que o homem morreu por causas naturais.",
+    "resolucao": "O homem, que tinha uma faca tatuada nas costas, morreu de infarto."
+  },
+  {
+    "titulo": "Morte no restaurante",
+    "caso": "Sara entra em um restaurante e pede um copo d\u00e2\u20ac\u2122\u00e1gua ao gar\u00e7om, alegando ser uma quest\u00e3o de vida ou morte. O gar\u00e7om se recusa a ajud\u00e1-la e Sara vai embora desconsolada, pensando na vida que n\u00e3o p\u00f4de salvar.",
+    "resolucao": "Sara estava fazendo se mudando. Ao sair na rua, trope\u00e7ou na cal\u00e7ada e o aqu\u00e1rio que carregava sobre algumas caixas caiu no ch\u00e3o e quebrou. Ela precisava do copo d\u00e2\u20ac\u2122\u00e1gua para salvar a vida de seu peixinho."
+  },
+  {
+    "titulo": "A chave misteriosa",
+    "caso": "Todas as noites antes de dormir, Isabel tranca a porta de sua casa e prende a chave em uma corda.",
+    "resolucao": "Isabel era son\u00e2mbula e algumas noites antes, ela saiu de casa durante a madrugada sem se dar conta. Para impedir que isso ocorresse novamente, todas as noites ela amarrava a chave a uma corda com um sino. Caso tentasse sair de casa, seu marido seria acordado e a levaria novamente para a cama."
+  },
+  {
+    "titulo": "Um bom dia para morrer",
+    "caso": "Vanessa era amada por todos que a conheciam e n\u00e3o possu\u00eda inimigos. Apesar disso, muitas pessoas ficaram felizes com sua morte.",
+    "resolucao": "Vanessa era doadora de \u00f3rg\u00e3os e salvou muitas vidas com sua morte."
+  },
+  {
+    "titulo": "Ouro de tolo",
+    "caso": "Um grupo de pessoas v\u00ea muito ouro nas m\u00e3os de Jo\u00e3o e logo ap\u00f3s isso o espancam, por\u00e9m, sem levar o ouro.",
+    "resolucao": "Jo\u00e3o estava jogando poker com um grupo de pessoas. Na mesa j\u00e1 havia um dez de ouros e quando viram que Jo\u00e3o estava com um dez de ouros nas m\u00e3os, perceberam que ele estava trapaceando e ficaram muito nervosos."
+  },
+  {
+    "titulo": "Morte no Grand Canyon",
+    "caso": "Raul l\u00ea um artigo de jornal sobre o acidente que matou uma mulher no Grand Canyon, e imediatamente suspeita que a mulher tenha sido assassinada.",
+    "resolucao": "Raul trabalhava em uma ag\u00eancia de viagens e alguns dias  antes, um homem havia visitado a ag\u00eancia para agendar uma viagem ao Arizona (E.U.A), pois queria visitar o Grand Canyon com sua esposa, comprando uma passagem de ida e volta para ele e uma s\u00f3 de ida para sua esposa. Raul n\u00e3o havia dado muita import\u00e2ncia a esse fato, mas ao ler as not\u00edcias, percebeu que o homem n\u00e3o queria que sua esposa voltasse."
+  },
+  {
+    "titulo": "Serial killer",
+    "caso": "Apesar de todos saberem que uma mulher era respons\u00e1vel por v\u00e1rios assassinatos, ela nunca foi presa.",
+    "resolucao": "A mulher era uma escritora que se tornou famosa pelos romances sobre assassinatos."
+  },
+  {
+    "titulo": "O nocaute",
+    "caso": "F\u00e1bio \u00e9 atingido. Por\u00e9m, seus colegas ficam felizes com isso.",
+    "resolucao": "F\u00e1bio era um jogador profissional de futebol. Durante uma partida, ele foi atingido com for\u00e7a na \u00e1rea do p\u00eanalti. Seus colegas de time ficaram felizes pois isso deu a eles uma \u00f3tima chance de marcar um gol."
+  },
+  {
+    "titulo": "Uma surpresa na cama",
+    "caso": "Um homem volta para casa ap\u00f3s uma viagem de trabalho que durou v\u00e1rios dias e encontra sua esposa na cama com algu\u00e9m que ele nunca havia visto. Mesmo assim, ele fica feliz.",
+    "resolucao": "Quando o homem foi viajar, sua esposa estava prestes a dar \u00e0 luz. Ao retornar, ele encontrou-a na cama com o filho rec\u00e9m-nascido e ficou imensamente feliz em v\u00ea-lo."
+  },
+  {
+    "titulo": "A carta de suic\u00eddio",
+    "caso": "Um homem atira em si e morre na frente de v\u00e1rias pessoas. Ao chegarem no local, os policiais encontram uma carta de suic\u00eddio escrita a pr\u00f3prio punho pelo homem. Apesar disso, uma das testemunhas \u00e9 presa.",
+    "resolucao": "O homem era um ator ensaiando a cena na qual seu personagem comete suic\u00eddio. A carta fazia parte do cen\u00e1rio e o pr\u00f3prio ator havia escrito. Entretanto, um dos membros da equipe trocou a arma falsa por uma real, ent\u00e3o ao fingir o suic\u00eddio, ele na realidade atirou em si mesmo. Gra\u00e7as \u00e0s c\u00e2meras de seguran\u00e7a do local, os policiais conseguiram descobrir atrav\u00e9s das filmagens quando a arma foi trocada."
+  },
+  {
+    "titulo": "Decaptada",
+    "caso": "Gabi \u00e9 decaptada na frente de um policial. Alguns minutos depois, o culpado \u00e9 identificado e confessa o ato. Ap\u00f3s algumas horas de deten\u00e7\u00e3o ele volta \u00e0s ruas.",
+    "resolucao": "Uma garotinha tinha um boneco policial e uma boneca chamada Gabi. Seu irm\u00e3o arranca a cabe\u00e7a da boneca e quando os pais descobrem, o punem deixando-o de castigo em seu quarto. Ap\u00f3s algumas horas, ele \u00e9 liberado para brincar fora de casa."
+  },
+  {
+    "titulo": "Sorrindo na morte",
+    "caso": "Paulo est\u00e1 diante do t\u00famulo de uma mulher, ele \u00e9 o \u00fanico em todo o cemit\u00e9rio que est\u00e1 sorrindo.",
+    "resolucao": "Paulo trabalhava como coveiro. Alguns dias antes, uma mulher havia morrido em um acidente de tr\u00e2nsito. Paulo estava diante do t\u00famulo, enterrando a mulher e sorriu porque seria bem pago pelo trabalho."
+  },
+  {
+    "titulo": "O soldado sortudo",
+    "caso": "Um soldado toma um tiro no campo de batalha, por\u00e9m \u00e9 salvo gra\u00e7as \u00e0 sua esposa.",
+    "resolucao": "Ao saber que o soldado iria para o campo de batalha, sua esposa deu a ele um medalh\u00e3o com sua foto. O soldado carregava o medalh\u00e3o em seu pesco\u00e7o, abaixo do uniforme. Ao tomar o tiro no peito, o medalh\u00e3o parou a bala, salvando sua vida."
+  },
+  {
+    "titulo": "Uma tarde chuvosa",
+    "caso": "Em uma tarde chuvosa, Em\u00edlia s\u00f3 queria fazer uma boa a\u00e7\u00e3o mas infelizmente Camila pagou com sua vida.",
+    "resolucao": "Em\u00edlia era uma crian\u00e7a de cinco anos que queria ajudar sua m\u00e3e com os afazeres dom\u00e9sticos. Numa tarde chuvosa, sua gata Camila voltou para casa encharcada. Em\u00edlia decide ent\u00e3o colocar Camila na m\u00e1quina secadora para deixar seu amado animal de estima\u00e7\u00e3o mais confort\u00e1vel. Essa n\u00e3o foi uma boa ideia."
+  },
+  {
+    "titulo": "Sauda\u00e7\u00e3o mortal",
+    "caso": "Ao cumprimentar seu amigo, o homem causa a morte de um colega.",
+    "resolucao": "O homem trabalhava numa constru\u00e7\u00e3o e estava dando instru\u00e7\u00f5es a um oper\u00e1rio. Naquele dia, o homem viu seu melhor amigo \u00e0 dist\u00e2ncia e o cumprimentou efusivamente O oper\u00e1rio que estava em seu primeiro dia de trabalho, interpretou os sinais da forma errada, descarregando mais vigas de concreto, que esmagaram seu colega."
+  },
+  {
+    "titulo": "O motorista",
+    "caso": "Sabrina estava andando na rua quando v\u00ea um carro atropelando v\u00e1rios pedestres. Apesar de aterrorizada, ela continua andando normalmente.",
+    "resolucao": "Sabrina parou diante de uma loja na qual a TV estava mostrando as not\u00edcias do dia sobre um motorista b\u00eabado que atropelou v\u00e1rias pessoas. Sabrina ficou horrorizada com as imagens, mas seguiu seu caminho."
+  },
+  {
+    "titulo": "Ilha do tesouro",
+    "caso": "Um pirada enterra seu maior tesouro numa ilha deserta. Ap\u00f3s um tempo, ele descobre que um de seus rivais conseguiu uma c\u00f3pia do mapa que mostra a exata localiza\u00e7\u00e3o do tesouro. Ele n\u00e3o se incomoda com o fato de seu inimigo saber em qual local da ilha cavar para encontrar o tesouro.",
+    "resolucao": "O pirata cavou aproximadamente 3 metros e enterrou 90% de seu tesouro, cobrindo-o de areia at\u00e9 que o buraco ficasse com somente 1 metro de profundidade, onde enterrou os 10% restantes, cobrindo tudo com mais areia. O tesouro era tamanho que mesmo os 10% eram uma fortuna, ent\u00e3o o rival n\u00e3o suspeitaria quanto a exist\u00eancia de algo mais. E uma vez que se espalhasse a not\u00edcia de que o tesouro havia sido encontrado, ningu\u00e9m voltaria a procur\u00e1-lo."
+  },
+  {
+    "titulo": "A caverna",
+    "caso": "Leonardo estava numa caverna quando, de repente, ouve um barulho vindo do lado de fora. Ele estranha o barulho e sai para investigar, morrendo no momento em que deixa a caverna.",
+    "resolucao": "Leonardo ouviu o barulho de uma serra el\u00e9trica e descobriu que ela pertencia a um lenhador que estava cortando uma \u00e1rvore pr\u00f3xima \u00e0 entrada da caverna. Infelizmente, Leonardo n\u00e3o p\u00f4de desviar da \u00e1rvore antes que ela ca\u00edsse em cima dele."
+  },
+  {
+    "titulo": "Mensagem mortal",
+    "caso": "Um homem envia uma mensagem de texto (SMS) e uma mulher morre imediatamente.",
+    "resolucao": "O homem havia chegado em seu destino ap\u00f3s uma longa viagem, quando envia uma mensagem para o n\u00famero que pensava ser de sua esposa. A mensagem dizia: \"Querida, acabei de chegar. Semana que vem ser\u00e1 sua vez. Voc\u00ea n\u00e3o precisa trazer muitas roupas j\u00e1 que aqui est\u00e1 calor.\" Ele infelizmente acabou enviando a mensagem ao n\u00famero errado, para uma mulher que havia acabado de ficar vi\u00fava. Ao imaginar que seu marido havia enviado a mensagem do inferno, a mulher morreu de infarto."
+  },
+  {
+    "titulo": "Piu\u00ed\u00ed\u00ed",
+    "caso": "Uma mulher est\u00e1 caminhando junto aos trilhos do trem. De repente, ela v\u00ea o trem se aproximando e mesmo sem a inten\u00e7\u00e3o de morrer, corre em sua dire\u00e7\u00e3o.",
+    "resolucao": "A mulher estava perto da entrada de um t\u00fanel de trem. Para sair do t\u00fanel e sobreviver, ela precisava correr v\u00e1rios metros em dire\u00e7\u00e3o \u00e0 entrada, rumo ao trem."
+  },
+  {
+    "titulo": "Morte no circo",
+    "caso": "Alice e Breno decidem passar a tarde no circo. Infelizmente, Alice \u00e9 a \u00fanica a sair viva.",
+    "resolucao": "Alice sabia que Breno a estava traindo e decide mat\u00e1-lo. Ela o levou ao circo onde seu amigo Carlos trabalhava como domador de le\u00f5es. Durante a apresenta\u00e7\u00e3o, Carlos escolhe Breno como volunt\u00e1rio na plateia. Carlos deixa o le\u00e3o matar Breno e faz parecer um acidente."
+  },
+  {
+    "titulo": "Erro de c\u00e1lculo",
+    "caso": "Por causa de um erro de c\u00e1lculo, Max morre enforcado.",
+    "resolucao": "Max era um pit-bull, que ficava preso em seu canil por uma corrente. Devido a um erro de c\u00e1lculo do dono de Max, a corrente era longa o suficiente para que Max pulasse a cerca, mas muito curta para ele atingir o ch\u00e3o do outro lado. Certo dia ele pulou a cerca, morrendo enforcado."
+  },
+  {
+    "titulo": "Um belo casal",
+    "caso": "Ivan e Concei\u00e7\u00e3o acabam de ver uma mulher ser assassinada, quando olham nos olhos do assassino. Ivan sai correndo, deixando Concei\u00e7\u00e3o sozinha. Por\u00e9m, uma semana depois, eles se casam.",
+    "resolucao": "Ivan e Concei\u00e7\u00e3o estavam noivos a muitos anos. Certa noite, eles assistiram a um filme de terror em casa. Ap\u00f3s a cena de assassinato, Ivan corre para pegar a pipoca no microondas."
+  },
+  {
+    "titulo": "A \u00faltima m\u00fasica",
+    "caso": "Marina est\u00e1 sentada ouvindo sua m\u00fasica favorita. Ao espirrar, ela perde a vida.",
+    "resolucao": "Marina dirigia seu carro durante a noite, quando sua m\u00fasica favorita come\u00e7a a tocar na r\u00e1dio, e ela decide aumentar o volume. Enquanto isso, um motorista b\u00eabado se aproxima rapidamente pelo cruzamento, buzinando e piscando os far\u00f3is. Marina n\u00e3o ouviu a buzina por causa do volume do r\u00e1dio, e n\u00e3o viu as luzes por causa do espirro. Os ve\u00edculos colidiram, e Marina morreu na hora."
+  },
+  {
+    "titulo": "A cura",
+    "caso": "Os frequentes machucados de Carina come\u00e7aram a curar quando ela foi visitar seu primo.",
+    "resolucao": "Carina tinha bolhas frequentes nos p\u00e9s, causadas por seus sapatos. Seu primo era um sapateiro e ao consertar os sapatos, eles pararam de feri-la, fazendo que com que os machucados curassem com o tempo."
+  },
+  {
+    "titulo": "Surpresa mortal",
+    "caso": "Uma garota ouve barulhos em seu quarto, e acaba morta ao investigar a causa. Ela n\u00e3o foi a \u00fanica.",
+    "resolucao": "A garota havia acabado de chegar em casa vinda da escola de ensino m\u00e9dio. Sua amiga queria fazer uma surpresa de anivers\u00e1rio e se escondeu em seu quarto. A garota ficou assustada com os barulhos vindos do quarto e pegou a arma de seu pai, que era policial, para se sentir segura. Assim que entrou em seu quarto, sua amiga pulou para dar-lhe os parab\u00e9ns. Apavorada, a garota apertou o gatilho sem querer e atirou fatalmente em sua amiga. Percebendo o que havia feito, ela comete suic\u00eddio."
+  },
+  {
+    "titulo": "A floresta do louco",
+    "caso": "Um homem acorda todas as manh\u00e3s com suas m\u00e3os cheias de terra ao lado de um cad\u00e1ver.",
+    "resolucao": "O homem era son\u00e2mbulo e tinha um amigo que havia falecido a certo tempo. Todas as noites ele sem perceber, levantava e ia ao t\u00famulo do amigo. Ele ent\u00e3o trazia o corpo ao seu lado. Portanto, ele acordava todos os dias com as m\u00e3os cheias de terra ao lado do cad\u00e1ver de seu amigo. Ao se dar conta de suas a\u00e7\u00f5es quando inconsciente, ele enterrava o corpo novamente."
+  },
+  {
+    "titulo": "Exposi\u00e7\u00e3o condenada",
+    "caso": "O corpo de J\u00falio foi encontrado morto ap\u00f3s 12 horas do in\u00edcio de sua exposi\u00e7\u00e3o de arte.",
+    "resolucao": "J\u00falio, que era pintor, estava montando sua primeira exposi\u00e7\u00e3o. Doze horas ap\u00f3s seu in\u00edcio, um visitante chega procurando o amante de sua esposa, pois sabia que ela o tra\u00eda a um certo tempo. Ele deduziu que J\u00falio era o amante pela quantidade de pinturas nas quais ela era retratada e decidiu mat\u00e1-lo."
+  },
+  {
+    "titulo": "O grande advogado",
+    "caso": "Matheus tenta defender um cliente acusado de homic\u00eddio e morre momentos mais tarde.",
+    "resolucao": "O cliente de Matheus era acusado de matar uma pessoa numa briga de bar. Matheus ent\u00e3o alegou que a v\u00edtima atirou em si mesma acidentalmente enquanto sacava sua arma, mas os jurados duvidaram. Para convenc\u00ea-los, Matheus decide mostrar na pr\u00e1tica mas infelizmente ele usou uma arma carregada e acabou atirando em si mesmo por acidente."
+  },
+  {
+    "titulo": "Correndo por sua vida",
+    "caso": "Tadeu chega em casa certa noite e v\u00ea um homem apontando uma arma para ele. Se Tadeu n\u00e3o tivesse corrido, n\u00e3o teria perdido todo seu dinheiro.",
+    "resolucao": "Tadeu estava fraudando a companhia de seguro a v\u00e1rios meses fingindo ser cego. Quando a companhia come\u00e7ou a suspeitar que havia algo errado, eles enviaram um homem com uma pistola falsa. Tadeu fugiu, provando que ele podia ver o homem com a pistola. A companhia de seguro usou esse fato para comprovar a fraude e pedir compensa\u00e7\u00e3o."
+  },
+  {
+    "titulo": "A estrada",
+    "caso": "No meio da noite, Davi v\u00ea duas luzes se aproximando dele em alta velocidade. No momento em que acreditava que ia morrer, ele percebe que est\u00e1 tudo bem e sorri. Apenas momentos depois, ele morre.",
+    "resolucao": "Davi estava atravessando a rua com a visibilidade baixa. Primeiramente ele viu duas luzes lado a lado, que eram de motocicletas, que felizmente conseguiram desviar dele. Aliviado por\u00e9m ainda em choque com o  susto, ele permanece no meio da rua e alguns momentos mais tarde, outro ve\u00edculo com far\u00f3is quebrados aparece e o atropela."
+  },
+  {
+    "titulo": "A inunda\u00e7\u00e3o",
+    "caso": "H\u00e1 uma inunda\u00e7\u00e3o em um edif\u00edcio. Apesar de haver algumas pessoas tristes, muitas delas est\u00e3o muito felizes.",
+    "resolucao": "A inunda\u00e7\u00e3o ocorreu em uma escola, com a quebra de um cano no escrit\u00f3rio do professor Santos. Alguns dias antes, o professor Santos aplicou uma prova complicada e ainda n\u00e3o havia corrigido as avalia\u00e7\u00f5es. A \u00e1gua estragou os pap\u00e9is das provas e alguns alunos, que certamente n\u00e3o teriam sido aprovados, ficaram felizes em terem uma nova chance."
+  },
+  {
+    "titulo": "Batida!",
+    "caso": "Uma mulher atinge o para-brisa de um ve\u00edculo que seguia pela rua e cai no ch\u00e3o. O motorista chama a pol\u00edcia. Ao chegar, o policial cuida da v\u00edtima e a leva presa.",
+    "resolucao": "A mulher havia se jogado no para-brisa do carro, que estava em baixa velocidade, com a inten\u00e7\u00e3o de receber uma indeniza\u00e7\u00e3o da companhia de seguros do motorista. Seu plano n\u00e3o funcionou porque o carro possu\u00eda uma c\u00e2mera de seguran\u00e7a que filmou sua a\u00e7\u00e3o."
+  },
+  {
+    "titulo": "Identifica\u00e7\u00e3o de suspeito",
+    "caso": "Uma mulher \u00e9 chamada para identificar o suspeito de um assassinato. Cinco homens se alinham do outro lado de um espelho duplo. Apesar de n\u00e3o reconhecer nenhum dos homens, a mulher rapidamente deixa a sala de observa\u00e7\u00e3o com o rosto p\u00e1lido, com medo de morrer.",
+    "resolucao": "Ao entrar na sala de observa\u00e7\u00e3o, a mulher olhou para os cinco homens atrav\u00e9s do espelho. Ela n\u00e3o os reconheceu, mas reconheceu o policial que estava com ela na sala como o assassino. Profundamente assustada, ela decide sair correndo."
+  },
+  {
+    "titulo": "Perfume mortal",
+    "caso": "Um homem morre ao receber um frasco de perfume como presente.",
+    "resolucao": "O homem era um apicultor e sua esposa deu a ele um perfume de anivers\u00e1rio. As abelhas, sendo muito sens\u00edveis ao cheiro, n\u00e3o o reconheceram como seu cuidador e o atacaram, causando sua morte."
+  },
+  {
+    "titulo": "Doce morte",
+    "caso": "Estev\u00e3o descumpre a dieta ap\u00f3s o trabalho, como resultado seu corpo sem vida \u00e9 descoberto no dia seguinte.",
+    "resolucao": "Estev\u00e3o era cozinheiro. Certo dia, quando seus colegas de trabalho j\u00e1 haviam ido para casa, ele entra na c\u00e2mara fria para tomar sorvete. Infelizmente, ele escorrega e perde a consci\u00eancia enquanto a porta estava fechada. Quando seus colegas de trabalho chegam no dia seguinte e entram na c\u00e2mara fria, eles viram que Estev\u00e3o havia morrido de hipotermia."
+  },
+  {
+    "titulo": "O rel\u00f3gio dourado",
+    "caso": "L\u00facia estava dormindo sobre sua toalha \u00e0 beira do rio. Ao acordar, ela percebe que seu rel\u00f3gio havia sumido. N\u00e3o h\u00e1 pegadas pr\u00f3ximas a ela, e quando ela denuncia ao policial, ele imediatamente descobre o ladr\u00e3o.",
+    "resolucao": "L\u00facia havia tirado seu rel\u00f3gio antes de dormir, deixando-o ao seu lado. A alguns metros dela havia um pescador, que usou sua vara de pescar para pegar o rel\u00f3gio. O policial imediatamente percebe que s\u00f3 pode ter sido o pescador, j\u00e1 que evidentemente ningu\u00e9m havia se aproximado dela."
+  },
+  {
+    "titulo": "Chamas!",
+    "caso": "Um homem v\u00ea chamas subindo a sua frente e grita o mais alto que pode, por\u00e9m ningu\u00e9m vai ajud\u00e1-lo.",
+    "resolucao": "O homem era um cantor de heavy metal famoso, e as chamas eram parte do seu show."
+  },
+  {
+    "titulo": "Desastre nuclear",
+    "caso": "Uma mulher est\u00e1 assistindo TV e v\u00ea que houve um acidente nuclear com v\u00e1rias v\u00edtimas, e apesar disso, ela fica muito feliz.",
+    "resolucao": "A mulher havia acabado de passar por uma cirurgia nos olhos e ao ver as not\u00edcias, apesar de serem tristes ela estava feliz em ver perfeitamente."
+  },
+  {
+    "titulo": "Encontro \u00e0s cegas",
+    "caso": "Um homem tem um encontro marcado com uma mulher desconhecida em um restaurante. Ele nunca a viu antes, mas ao entrar no restaurante vai diretamente para a mesa em que a mulher est\u00e1 sentada.",
+    "resolucao": "O homem tinha um encontro \u00e0s cegas e a outra pessoa havia marcado o encontro por carta. A carta estava assinada com batom. Assim que o homem entrou no restaurante, ele distinguiu a mulher havia escrito a carta por ela estar usando o mesmo tom de batom."
+  },
+  {
+    "titulo": "Um dia ruim no trabalho",
+    "caso": "Se Jorge tivesse feito bem seu trabalho, ainda estaria vivo.",
+    "resolucao": "Jorge era um bobo da corte. Certo dia, ele falhou em fazer o rei rir, ent\u00e3o o rei ordenou sua execu\u00e7\u00e3o."
+  },
+  {
+    "titulo": "Um jantar gostoso?",
+    "caso": "Apesar do jantar ter sido perfeitamente preparado naquela noite, muitas pessoas que comeram vomitaram mais tarde.",
+    "resolucao": "O jantar havia sido servido no restaurante de um navio durante um cruzeiro. Devido ao forte balan\u00e7o do navio, muitos dos que jantaram ficaram enjoados e vomitaram suas refei\u00e7\u00f5es."
+  },
+  {
+    "titulo": "Um lugar escuro e frio",
+    "caso": "Isabel se senta em um lugar escuro e frio. Ao olhar para cima, ela percebe que morrer\u00e1 ali.",
+    "resolucao": "Isabel havia sa\u00eddo para uma trilha rural em uma \u00e1rea afastada. Conforme caminhava, ela caiu em um velho po\u00e7o que n\u00e3o estava sinalizado corretamente. O po\u00e7o era profundo e ainda havia um pouco de \u00e1gua no fundo. Desorientada a princ\u00edpio, Isabel percebeu tudo quando olhou para cima e viu o c\u00e9u azul acima da escurid\u00e3o."
+  },
+  {
+    "titulo": "A gravata",
+    "caso": "Ant\u00f4nio pede ajuda do amigo Enzo para ajud\u00e1-lo com o n\u00f3 da gravata j\u00e1 que ele n\u00e3o sabe faz\u00ea-lo. Enzo concorda e pede para Ant\u00f4nio se deitar. Apesar de surpreso, ele logo percebe a l\u00f3gica.",
+    "resolucao": "Enzo trabalhava em uma funer\u00e1ria e estava acostumado a dar o n\u00f3 nas gravadas dos cad\u00e1veres deitados em caix\u00f5es, ent\u00e3o era muito mais f\u00e1cil para ele fazer o mesmo com Ant\u00f4nio."
+  },
+  {
+    "titulo": "A sauna",
+    "caso": "Um homem \u00e9 encontrado morto em uma sauna v\u00edtima de uma ferida mortal. A arma do crime n\u00e3o \u00e9 encontrada, mas ningu\u00e9m deixa a sauna com qualquer coisa que possa ser usada como arma.",
+    "resolucao": "O homem estava relaxando em uma sauna quando outro homem entrou com uma garrafa t\u00e9rmica. Dentro da garrafa havia uma faca feita de gelo, que o segundo homem usou para esfaquear o primeiro homem. Alguns segundos depois, o gelo derreteu e n\u00e3o havia mais evid\u00eancias do que causou a morte do primeiro homem. O assassino simplesmente deixou a sauna com uma garrafa t\u00e9rmica vazia."
+  },
+  {
+    "titulo": "Banho de manh\u00e3",
+    "caso": "Todos os dias, Diana acorda, toma banho, toma seu caf\u00e9 da manh\u00e3 e vai para o trabalho. Um dia, ela fez tudo como sempre, mas quando seu chefe a viu, ele disse: \"Voc\u00ea deveria acordar mais cedo\".",
+    "resolucao": "Naquele dia, ela acordou um pouco mais tarde e, estando com pressa, n\u00e3o teve tempo de secar o cabelo adequadamente. Seu chefe notou que ainda estava molhado."
+  },
+  {
+    "titulo": "Uma surpresa de Natal",
+    "caso": "Um homem decide fazer uma surpresa para a sua fam\u00edlia no Natal. Alguns dias depois, sua fam\u00edlia decide vender a casa e ir morar longe.",
+    "resolucao": "O homem decidiu descer pela chamin\u00e9 vestido de Papai Noel, mas ficou preso. N\u00e3o sabendo que ele estava l\u00e1 e ansiosos para afastar o frio, sua fam\u00edlia acendeu a chamin\u00e9. O som do fogo cobriu os pedidos de ajuda do homem e ele acabou sufocando. Depois de algum tempo, sua fam\u00edlia o encontrou. Eles n\u00e3o queriam continuar morando na casa onde ele havia morrido, ent\u00e3o decidiram vender a casa e ir morar em outro lugar."
+  },
+  {
+    "titulo": "Anivers\u00e1rio",
+    "caso": "Enquanto comemorava seu anivers\u00e1rio de casamento, Patr\u00edcia come\u00e7ou a suspeitar que seu marido Bruno a traiu.",
+    "resolucao": "Patr\u00edcia e Bruno decidiram celebrar seu anivers\u00e1rio de dois anos de casamento em um hotel de cinco estrelas que acabou de ser inaugurado. Quando chegaram l\u00e1, Bruno foi ao banheiro e pediu a Patr\u00edcia para checar algo em seu telefone. Quando ela o fez, viu que o telefone dele tinha se conectado automaticamente ao Wi-Fi do hotel, indicando que ele j\u00e1 estava l\u00e1 com outra pessoa."
+  },
+  {
+    "titulo": "Um grito inesperado",
+    "caso": "Alice est\u00e1 andando calmamente na rua quando de repente ela ouve um som. Ela se vira, come\u00e7a a correr o mais r\u00e1pido que pode e grita.",
+    "resolucao": "Alice \u00e9 uma estudante que estava indo em dire\u00e7\u00e3o a seu ponto de \u00f4nibus quando ouviu o som do \u00f4nibus se aproximando dela. Ela teve que se apressar para peg\u00e1-lo e gritou para o motorista parar."
+  },
+  {
+    "titulo": "Recebido a balas",
+    "caso": "Um homem entra em uma casa quando \u00e9 atingido repentinamente por v\u00e1rios proj\u00e9teis. No entanto, ele ainda est\u00e1 vivo e feliz.",
+    "resolucao": "O homem chegou em casa depois de uma longa viagem de neg\u00f3cios e seus filhos atiraram nele com armas de brinquedo. Ele ficou muito feliz em ver sua fam\u00edlia novamente."
+  },
+  {
+    "titulo": "Um pedido de ajuda",
+    "caso": "Uma garota liga para uma amiga dizendo que precisa da ajuda dela. Ela diz que est\u00e1 nervosa e que tem muita gente gritando e brigando. Diz que alguns est\u00e3o at\u00e9 feridos. Quando sua amiga diz a ela que ela deveria chamar a pol\u00edcia, a garota explica que a pol\u00edcia n\u00e3o \u00e9 necess\u00e1ria.",
+    "resolucao": "A garota estava em uma loja de departamento no primeiro dia de vendas e precisava da ajuda de sua amiga para levar suas compras para casa."
+  },
+  {
+    "titulo": "Amarrado ao trabalho",
+    "caso": "Francisco n\u00e3o gosta do trabalho dele. No entanto, ele nunca perde um dia nem mesmo quando seus pais morreram.",
+    "resolucao": "Francisco trabalha como coveiro em uma pequena cidade. Quando seus pais morreram, ele teve que ir trabalhar porque n\u00e3o havia mais ningu\u00e9m que pudesse cavar seus t\u00famulos."
+  },
+  {
+    "titulo": "O fim do inverno",
+    "caso": "\u00c9 o primeiro dia de sol depois de um longo inverno e Beatriz tem aproveitado a \u00faltima semana com Cleber. De repente, ela descobre que Cleber desapareceu. No entanto, isso n\u00e3o a surpreende.",
+    "resolucao": "Cleber era um boneco de neve e Beatriz sabia que, assim que aquecesse, ele se derreteria."
+  },
+  {
+    "titulo": "Esfaqueamento noturno",
+    "caso": "Dois companheiros de viagem, Bruno e Marcos, dormem no mesmo quarto. Uma noite, Bruno, cansado de Marcos, decide pegar sua faca e mat\u00e1-lo. Ele est\u00e1 pronto para esfaque\u00e1-lo, mas no \u00faltimo momento, ele para. Ele encontrou uma maneira melhor de matar Marcos. Depois de algumas semanas, Marcos morre.",
+    "resolucao": "Bruno e Marcos estavam viajando por uma \u00e1rea tropical remota. Bruno usou sua faca para fazer um buraco no mosquiteiro protetor de Marcos. Naquela noite, Marcos foi picado por mosquitos e acabou contraindo mal\u00e1ria, morrendo algumas semanas depois."
+  },
+  {
+    "titulo": "Morte na estrada",
+    "caso": "Uma mulher sai de um carro e mata quatro pessoas.",
+    "resolucao": "Uma fam\u00edlia estava fazendo uma viagem pelas montanhas quando o motorista perdeu o controle do carro. O carro acabou oscilando \u00e0 beira de um precip\u00edcio. O peso das cinco pessoas dentro mantinha o carro equilibrado na beira do penhasco. No entanto, quando a mulher saiu do carro, o mesmo caiu do penhasco."
+  },
+  {
+    "titulo": "Uma liga\u00e7\u00e3o mortal",
+    "caso": "Uma liga\u00e7\u00e3o termina a vida de Carlos.",
+    "resolucao": "Carlos, um policial, estava trabalhando em uma opera\u00e7\u00e3o secreta para prender um importante grupo de traficantes de armas. Quando ele estava prestes a iniciar a abordagem, ele recebeu um telefonema em seu celular, e como ele tinha esquecido de colocar no silencioso,os criminosos o descobriram e o mataram."
+  },
+  {
+    "titulo": "Morte no hospital",
+    "caso": "Um homem \u00e9 baleado v\u00e1rias vezes ao entrar em um hospital. Alguns minutos depois, ele sai feliz e sozinho.",
+    "resolucao": "O homem estava jogando paintball com seus amigos. Perto do final do jogo, o homem se refugiou em um hospital abandonado que fazia parte do campo de paintball. Quando ele entrou, ele foi baleado pelo time inimigo, eliminando-o do jogo. Poucos minutos depois, o jogo terminou e o homem deixou o hospital feliz porque, apesar de sua elimina\u00e7\u00e3o, seu time havia vencido."
+  },
+  {
+    "titulo": "O n\u00famero do telefone",
+    "caso": "Matheus e Carol se encontram novamente depois de algum tempo. Mesmo que eles fiquem felizes em se ver e que troquem n\u00fameros de telefone, eles s\u00f3 ligam um para o outro uma vez.",
+    "resolucao": "Matheus e Carol estavam envolvidos em um acidente de carro. Ap\u00f3s o acidente, eles tiveram que trocar seus dados de seguro e n\u00fameros de telefone. Depois que tudo foi resolvido, eles n\u00e3o tinham mais motivo para manter contato."
+  }
+]
